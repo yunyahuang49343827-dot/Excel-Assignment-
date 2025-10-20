@@ -1,0 +1,33 @@
+OVERALL COMMENT
+===============
+
+Dear student, Thank you for your submission of the BISM7202 Excel Assignment. Your work has been evaluated against the established criteria, and I have carefully reviewed your Excel assignment and would like to provide constructive feedback to support your learning journey.
+Feedback: Your work shows adequate grasp of Excel fundamentals with some successful application of formulas, charts, and basic analysis tools. While meeting minimum requirements, there's room for improvement in solution sophistication and presentation quality.
+Strengths:
+• Demonstrates competent use of basic Excel functions
+• Shows understanding of data organization principles
+• Meets assignment requirements with acceptable accuracy
+Areas for Improvement:
+• Enhance advanced formula techniques and nested functions
+• Improve chart design and data visualization aesthetics
+• Develop more sophisticated analytical approaches
+• Strengthen attention to detail in formatting and presentation
+You have established a solid foundation in Excel. I encourage you to explore advanced features and practice complex scenarios to elevate your analytical capabilities for future assignments.
+
+ASSESSMENT ACCORDING TO RUBRIC
+=============================
+
+Formulas & Functions: 33 out of 33
+PivotTables, PivotCharts, Charts, and Maps: 9.2 out of 12
+Database & Advanced Functions: 9.1 out of 10
+What-If Analysis: 8.4 out of 15
+Solver: 10 out of 10
+Conditional Formatting: 0.9 out of 5
+General: 8.5 out of 10
+Reflections and recommendations: 2.6 out of 10
+=============================
+
+Late Submission Penalty: 0
+=============================Total Points: 81.7/100
+
+=============================
