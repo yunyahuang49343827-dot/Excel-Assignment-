@@ -1,0 +1,1300 @@
+Office Location ID,Street Address,Suburb,Postcode,Dwelling Type,WeeklyRent,Bedrooms,Bathroom,Carport
+YY-LOC-03,24 Essendon Rd,Anstead,4070,House,421,3,1,2
+YY-LOC-03,3 Greygum Pl,Anstead,4070,House,464,4,2,0
+YY-LOC-03,65 Jacqueline Pl,Anstead,4070,House,534,0,2,0
+YY-LOC-01,1/33 Raleigh Pde,Ashgrove,4060,Flat,430,3,1,0
+YY-LOC-01,1/7 Firhill St,Ashgrove,4060,Flat,476,2,1,2
+YY-LOC-01,10/74 Gavan St,Ashgrove,4060,Townhouse,430,3,1,2
+YY-LOC-01,10/90 Globe St,Ashgrove,4060,Flat,362,2,2,1
+YY-LOC-01,11 Cavell Tce,Ashgrove,4060,House,787,4,1,1
+YY-LOC-01,11 Dovedale Cr,Ashgrove,4060,House,395,2,1,1
+YY-LOC-01,11/30 Banksia Ave,Ashgrove,4060,Flat,575,2,2,2
+YY-LOC-01,12/10 Glenlyon Dr,Ashgrove,4060,Flat,305,0,2,0
+YY-LOC-01,12/18 Dovedale Crs,Ashgrove,4060,Flat,286,2,1,1
+YY-LOC-01,12/24 Wardell St,Ashgrove,4060,Flat,258,2,3,2
+YY-LOC-01,13 Davies Rd,Ashgrove,4060,House,883,4,1,2
+YY-LOC-01,137 Dorrington Dr,Ashgrove,4060,House,170,3,1,0
+YY-LOC-01,14/95 Ferneydell St,Ashgrove,4060,Flat,363,0,2,1
+YY-LOC-01,15/8 Frasers Rd,Ashgrove,4060,Flat,525,0,3,2
+YY-LOC-01,16/18 Farrell St,Ashgrove,4060,Flat,313,2,1,2
+YY-LOC-01,16/51 Glen Pde,Ashgrove,4060,Student accommodation,186,1,2,0
+YY-LOC-01,16/56 St Vincent St,Ashgrove,4060,Flat,415,2,2,2
+YY-LOC-01,17/71 Glenquarie Pl,Ashgrove,4060,Flat,360,2,1,2
+YY-LOC-01,17/87 Frobisher St,Ashgrove,4060,Townhouse,488,3,2,2
+YY-LOC-01,18 Victoria St,Ashgrove,4060,House,366,2,1,1
+YY-LOC-01,19 Glasgow St,Ashgrove,4060,House,827,3,1,0
+YY-LOC-01,19/29 Mossvale St,Ashgrove,4060,Boarding House,180,0,2,0
+YY-LOC-01,2 Elouera Rd,Ashgrove,4060,House,663,3,1,0
+YY-LOC-01,20 Foch St,Ashgrove,4060,House,447,3,2,2
+YY-LOC-01,20 Grant St,Ashgrove,4060,House,397,3,2,2
+YY-LOC-01,20 St Johns Av,Ashgrove,4060,House,442,2,1,1
+YY-LOC-01,20 St Johns Av,Ashgrove,4060,House,540,3,1,2
+YY-LOC-01,21/27 Ashgrove Ave,Ashgrove,4060,Flat,487,2,2,0
+YY-LOC-01,21/5 Hawick St,Ashgrove,4060,Flat,410,2,3,2
+YY-LOC-01,22/18 Banksia Ave,Ashgrove,4060,Flat,156,1,1,1
+YY-LOC-01,22/37 Greenlanes Rd,Ashgrove,4060,Flat,381,2,1,0
+YY-LOC-01,23/140 Ashgrove Ave,Ashgrove,4060,Flat,451,2,2,2
+YY-LOC-01,23/34 Canberra Drv,Ashgrove,4060,Flat,354,2,1,1
+YY-LOC-01,24 Canberra Drv,Ashgrove,4060,House,97,3,1,2
+YY-LOC-01,24 Fulcher Rd,Ashgrove,4060,House,501,3,1,1
+YY-LOC-01,24/21 Canberra Dr,Ashgrove,4060,Flat,395,2,1,2
+YY-LOC-01,26 Findlay St,Ashgrove,4060,House,433,3,2,2
+YY-LOC-01,3/1 Exeter St,Ashgrove,4060,Student accommodation,174,1,1,2
+YY-LOC-01,3/20 Felicia St,Ashgrove,4060,Flat,379,2,2,0
+YY-LOC-01,3/36 Corona Av,Ashgrove,4060,Flat,357,3,1,0
+YY-LOC-01,35 Gresham St,Ashgrove,4060,House,590,4,2,0
+YY-LOC-01,38 Otonga Rd,Ashgrove,4060,House,481,4,1,1
+YY-LOC-01,4 Eagar St,Ashgrove,4060,House,468,4,1,2
+YY-LOC-01,47 Elimatta Dr,Ashgrove,4060,House,546,3,1,1
+YY-LOC-01,54 Givelda St,Ashgrove,4060,House,634,4,2,1
+YY-LOC-01,55 Dalmore St,Ashgrove,4060,House,573,0,1,2
+YY-LOC-01,59 Gifford St,Ashgrove,4060,House,495,4,1,0
+YY-LOC-01,6 Hackett St,Ashgrove,4060,House,244,0,1,1
+YY-LOC-01,62 Glory St,Ashgrove,4060,House,456,2,2,2
+YY-LOC-01,63 Greenmont Cl,Ashgrove,4060,House,442,3,1,0
+YY-LOC-01,69 Garden Gr,Ashgrove,4060,House,653,0,1,1
+YY-LOC-01,78 Girraween Gr,Ashgrove,4060,House,540,3,2,0
+YY-LOC-01,78 Grand Pde,Ashgrove,4060,House,400,2,2,1
+YY-LOC-01,8/11 Judith St,Ashgrove,4060,Flat,675,3,2,1
+YY-LOC-01,8/57 Greenwood St,Ashgrove,4060,Townhouse,509,3,1,2
+YY-LOC-01,8/95 Gramere Av,Ashgrove,4060,Flat,336,2,2,2
+YY-LOC-01,81 Ennis La,Ashgrove,4060,House,694,0,1,1
+YY-LOC-01,81 St Johns Ave,Ashgrove,4060,House,658,4,1,2
+YY-LOC-01,9 Gailey St,Ashgrove,4060,House,590,3,1,0
+YY-LOC-01,9/18 Lovekin St,Ashgrove,4060,Townhouse,419,2,1,0
+YY-LOC-01,9/44 Mclean Pde,Ashgrove,4060,Flat,335,2,2,1
+YY-LOC-01,97 Glenrosa Rd,Ashgrove,4060,House,358,0,3,0
+YY-LOC-01,1/55 Thorpe St,Auchenflower,4066,Flat,312,0,2,0
+YY-LOC-01,1/85 Devoy St,Auchenflower,4066,Student accommodation,238,1,1,2
+YY-LOC-01,10/21 Shaw St,Auchenflower,4066,Student accommodation,234,0,1,0
+YY-LOC-01,10/50 Banksia Av,Auchenflower,4066,Student accommodation,201,1,2,1
+YY-LOC-01,10/58 Brisbane St,Auchenflower,4066,Flat,336,2,3,0
+YY-LOC-01,10/62 Patterson St,Auchenflower,4066,Flat,826,3,2,1
+YY-LOC-01,10/68 Cadell St,Auchenflower,4066,Flat,364,0,2,1
+YY-LOC-01,11 Anderson Av,Auchenflower,4066,House,367,2,3,0
+YY-LOC-01,11/15 Coopers Camp Rd,Auchenflower,4066,Flat,411,2,1,0
+YY-LOC-01,11/46 Lima St,Auchenflower,4066,Other,304,1,2,1
+YY-LOC-01,11/74 Bryant St,Auchenflower,4066,Supported Accommodation,190,2,2,2
+YY-LOC-01,11/81 Torwood St,Auchenflower,4066,Flat,415,2,3,1
+YY-LOC-01,12/21 Harding St,Auchenflower,4066,Flat,364,2,1,1
+YY-LOC-01,12/49 Patrick La,Auchenflower,4066,Other,206,0,1,0
+YY-LOC-01,13/5 Aloomba Rd,Auchenflower,4066,Flat,258,2,3,0
+YY-LOC-01,14/16 Sleath St,Auchenflower,4066,Flat,557,3,2,2
+YY-LOC-01,14/42 Buxton St,Auchenflower,4066,Boarding House,495,0,1,0
+YY-LOC-01,15/68 Grimes St,Auchenflower,4066,Flat,421,1,1,1
+YY-LOC-01,15/80 Challinor St,Auchenflower,4066,Other,128,1,1,0
+YY-LOC-01,16 Bennett Av,Auchenflower,4066,House,463,3,1,1
+YY-LOC-01,16/38 Kilroe St,Auchenflower,4066,Student accommodation,467,0,1,1
+YY-LOC-01,17/29 Renie St,Auchenflower,4066,Flat,141,2,2,0
+YY-LOC-01,17/59 Sawtell La,Auchenflower,4066,Flat,329,2,1,0
+YY-LOC-01,17/83 Dorrington Dr,Auchenflower,4066,Flat,398,2,2,0
+YY-LOC-01,18/25 Dixon St,Auchenflower,4066,Flat,436,3,1,1
+YY-LOC-01,18/31 Chasely St,Auchenflower,4066,Flat,391,2,1,1
+YY-LOC-01,18/93 Creek Av,Auchenflower,4066,Flat,545,2,2,0
+YY-LOC-01,19/20 Owen La,Auchenflower,4066,Flat,419,2,1,1
+YY-LOC-01,19/30 Rossmere La,Auchenflower,4066,Flat,327,2,2,0
+YY-LOC-01,19/41 Chiba St,Auchenflower,4066,Flat,305,1,1,1
+YY-LOC-01,19/49 Land St,Auchenflower,4066,Flat,624,2,1,2
+YY-LOC-01,19/62 Cue St,Auchenflower,4066,Student accommodation,392,0,1,1
+YY-LOC-01,19/74 Bangalla St,Auchenflower,4066,Flat,947,3,1,1
+YY-LOC-01,2/32 Atthow Av,Auchenflower,4066,Flat,364,2,2,0
+YY-LOC-01,2/34 Pears St,Auchenflower,4066,Flat,316,2,2,0
+YY-LOC-01,2/78 Mcilwraith St,Auchenflower,4066,Flat,229,1,3,2
+YY-LOC-01,20 Ridley St,Auchenflower,4066,House,708,2,2,0
+YY-LOC-01,20/27 Davies Rd,Auchenflower,4066,Flat,519,2,3,2
+YY-LOC-01,20/28 Broadbent St,Auchenflower,4066,Student accommodation,359,0,2,1
+YY-LOC-01,20/46 Bott St,Auchenflower,4066,Flat,304,2,3,1
+YY-LOC-01,21/31 Kellett St,Auchenflower,4066,Flat,407,2,2,2
+YY-LOC-01,22/13 Penrose St,Auchenflower,4066,Boarding House,248,5,1,2
+YY-LOC-01,22/61 Wienholt St,Auchenflower,4066,Student accommodation,376,1,2,1
+YY-LOC-01,22/62 Bridge St,Auchenflower,4066,Student accommodation,366,1,2,2
+YY-LOC-01,22/62 Don St,Auchenflower,4066,Flat,395,1,1,0
+YY-LOC-01,22/94 Canberra Dr,Auchenflower,4066,Flat,369,2,3,1
+YY-LOC-01,23/25 Hume St,Auchenflower,4066,Other,375,1,3,0
+YY-LOC-01,23/87 Birdwood Tce,Auchenflower,4066,Flat,517,2,3,2
+YY-LOC-01,23/99 Hope St,Auchenflower,4066,Flat,414,0,1,2
+YY-LOC-01,24/22 Ajax La,Auchenflower,4066,Flat,370,2,2,2
+YY-LOC-01,24/40 Acacia Dr,Auchenflower,4066,Student accommodation,388,1,2,0
+YY-LOC-01,24/48 Hobbs St,Auchenflower,4066,Student accommodation,379,0,1,0
+YY-LOC-01,24/77 Gregory St,Auchenflower,4066,Flat,317,1,2,1
+YY-LOC-01,25 Acton St,Auchenflower,4066,House,950,5,1,1
+YY-LOC-01,26 Cavell Tce,Auchenflower,4066,House,749,4,2,0
+YY-LOC-01,27 Rathdonnell St,Auchenflower,4066,House,515,4,1,1
+YY-LOC-01,29 Park La,Auchenflower,4066,House,197,5,1,1
+YY-LOC-01,3/25 Track/trail,Auchenflower,4066,Student accommodation,225,0,3,0
+YY-LOC-01,3/6 Thomas St,Auchenflower,4066,Flat,227,1,1,2
+YY-LOC-01,4/32 Ashgrove Av,Auchenflower,4066,Flat,431,2,2,1
+YY-LOC-01,4/41 Bowral St,Auchenflower,4066,Flat,429,2,1,0
+YY-LOC-01,4/43 Eagle Tce,Auchenflower,4066,Townhouse,649,3,1,1
+YY-LOC-01,4/68 Brown Pde,Auchenflower,4066,Flat,288,2,3,2
+YY-LOC-01,48 Jones St,Auchenflower,4066,House,543,3,1,2
+YY-LOC-01,5/20 Dart St,Auchenflower,4066,Supported Accommodation,188,1,3,2
+YY-LOC-01,5/56 Arinya Rd,Auchenflower,4066,Flat,244,2,2,2
+YY-LOC-01,5/74 Beard St,Auchenflower,4066,Other,399,0,2,0
+YY-LOC-01,5/93 Slade La,Auchenflower,4066,Student accommodation,199,1,1,0
+YY-LOC-01,50 Isabel La,Auchenflower,4066,House,480,2,3,1
+YY-LOC-01,6/25 Barnett Rd,Auchenflower,4066,Flat,195,1,2,1
+YY-LOC-01,6/25 Bracknell Pl,Auchenflower,4066,Flat,537,2,3,0
+YY-LOC-01,6/35 Boomi St,Auchenflower,4066,Flat,452,2,1,0
+YY-LOC-01,6/38 Ashbourne St,Auchenflower,4066,Other,336,0,3,0
+YY-LOC-01,6/50 Coronation Dr,Auchenflower,4066,Flat,755,3,1,2
+YY-LOC-01,6/69 Payne St,Auchenflower,4066,Other,206,1,2,0
+YY-LOC-01,60 Roy St,Auchenflower,4066,House,554,2,1,0
+YY-LOC-01,66 Amarina Av,Auchenflower,4066,House,531,4,1,0
+YY-LOC-01,67 Aldridge St,Auchenflower,4066,House,472,1,1,0
+YY-LOC-01,68 Burt St,Auchenflower,4066,House,579,4,1,0
+YY-LOC-01,7 Ashgrove Cr,Auchenflower,4066,House,528,2,1,1
+YY-LOC-01,7/31 Milton Rd,Auchenflower,4066,Flat,605,2,1,0
+YY-LOC-01,7/43 Lang Pde,Auchenflower,4066,Flat,353,1,2,2
+YY-LOC-01,7/97 Annie St,Auchenflower,4066,Student accommodation,402,0,3,1
+YY-LOC-01,73 Betheden Tce,Auchenflower,4066,House,418,3,1,0
+YY-LOC-01,73 Dixon St,Auchenflower,4066,House,893,4,1,0
+YY-LOC-01,8/20 Realm St,Auchenflower,4066,Flat,379,2,1,1
+YY-LOC-01,8/24 Dorset St,Auchenflower,4066,Flat,391,2,2,2
+YY-LOC-01,84 O'shea La,Auchenflower,4066,House,483,3,1,0
+YY-LOC-01,85 Celia St,Auchenflower,4066,House,719,0,2,0
+YY-LOC-01,89 Fairseat St,Auchenflower,4066,House,443,3,1,2
+YY-LOC-01,9/22 Agnes St,Auchenflower,4066,Student accommodation,366,0,2,2
+YY-LOC-01,9/25 Park Av,Auchenflower,4066,Flat,473,2,1,1
+YY-LOC-01,9/3 Caneby St,Auchenflower,4066,Student accommodation,397,1,1,1
+YY-LOC-01,9/46 Victoria Cr,Auchenflower,4066,Flat,301,1,1,2
+YY-LOC-01,9/61 Banks St,Auchenflower,4066,Flat,464,2,3,0
+YY-LOC-01,9/98 Siemon St,Auchenflower,4066,Flat,282,1,1,1
+YY-LOC-01,92 Vincent St,Auchenflower,4066,House,447,0,3,0
+YY-LOC-01,1/62 Eastment St,Bardon,4065,Townhouse,660,4,2,0
+YY-LOC-01,1/76 Crown St,Bardon,4065,Flat,598,3,1,1
+YY-LOC-01,11/61 Dawn St,Bardon,4065,Flat,492,2,3,1
+YY-LOC-01,13/81 Coolibah St,Bardon,4065,Flat,289,1,1,0
+YY-LOC-01,14 Carroll St,Bardon,4065,House,434,2,2,1
+YY-LOC-01,14/46 Chiswick Rd,Bardon,4065,Other,217,1,3,0
+YY-LOC-01,14/88 Cecil Rd,Bardon,4065,Flat,564,3,1,0
+YY-LOC-01,15/25 Colorado Av,Bardon,4065,Flat,350,2,3,1
+YY-LOC-01,15/82 Barton St,Bardon,4065,Townhouse,444,3,1,1
+YY-LOC-01,16 Burnham Rd,Bardon,4065,House,370,2,2,1
+YY-LOC-01,17 Barnett Rd,Bardon,4065,House,436,3,2,1
+YY-LOC-01,18/41 Clarke St,Bardon,4065,Flat,244,1,1,1
+YY-LOC-01,20 Coronation St,Bardon,4065,House,399,2,3,2
+YY-LOC-01,20/83 Davies Rd,Bardon,4065,Student accommodation,173,1,3,1
+YY-LOC-01,21 Beatrice St,Bardon,4065,House,529,3,1,0
+YY-LOC-01,22/29 Bowman Pde,Bardon,4065,Flat,306,1,1,0
+YY-LOC-01,23 Belmont Cr,Bardon,4065,House,595,3,1,0
+YY-LOC-01,24/47 Brigalow St,Bardon,4065,Flat,311,2,2,0
+YY-LOC-01,25 Arthur Tce,Bardon,4065,House,521,3,1,0
+YY-LOC-01,3/12 Alexandra St,Bardon,4065,Flat,275,2,3,1
+YY-LOC-01,3/36 Clermont St,Bardon,4065,Flat,194,1,3,0
+YY-LOC-01,34 El Paso St,Bardon,4065,House,739,4,1,2
+YY-LOC-01,4/14 Campion Av,Bardon,4065,Flat,465,2,2,1
+YY-LOC-01,47 David Av,Bardon,4065,House,1105,4,1,2
+YY-LOC-01,48 Bee St,Bardon,4065,House,484,3,1,0
+YY-LOC-01,5/19 Bardon Esp,Bardon,4065,Townhouse,535,3,1,0
+YY-LOC-01,50 Carmel St,Bardon,4065,House,390,3,1,0
+YY-LOC-01,52 Effie St,Bardon,4065,House,617,4,1,1
+YY-LOC-01,55 Annie St,Bardon,4065,House,544,2,2,2
+YY-LOC-01,6 Carwoola St,Bardon,4065,House,591,3,1,1
+YY-LOC-01,6/71 Carey St,Bardon,4065,Flat,416,0,2,1
+YY-LOC-01,6/85 Boundary Rd,Bardon,4065,Flat,155,1,3,0
+YY-LOC-01,61 Dudley St,Bardon,4065,House,530,2,1,1
+YY-LOC-01,67 Callum La,Bardon,4065,House,377,2,1,1
+YY-LOC-01,7/65 Coopers Camp Rd,Bardon,4065,Flat,263,1,1,1
+YY-LOC-01,75 Arabella St,Bardon,4065,House,421,3,1,0
+YY-LOC-01,78 Belleview Pde,Bardon,4065,House,635,3,1,0
+YY-LOC-01,79 Angus St,Bardon,4065,House,380,3,1,1
+YY-LOC-01,83 Couldrey St,Bardon,4065,House,723,3,2,0
+YY-LOC-01,86 Brown St,Bardon,4065,House,362,3,1,2
+YY-LOC-01,9/52 Accession St,Bardon,4065,Other,251,1,1,2
+YY-LOC-01,9/96 Boundary St,Bardon,4065,Student accommodation,301,1,3,1
+YY-LOC-01,91 Empress Tce,Bardon,4065,House,817,0,1,2
+YY-LOC-04,16 Carex St,Bellbowrie,4070,House,433,4,1,0
+YY-LOC-04,33 Gibson Cr,Bellbowrie,4070,House,481,4,1,2
+YY-LOC-04,40 Limosa St,Bellbowrie,4070,House,427,4,1,2
+YY-LOC-04,46 Casuarina Cl,Bellbowrie,4070,House,448,3,1,2
+YY-LOC-04,6 Keatley St,Bellbowrie,4070,House,421,0,1,0
+YY-LOC-04,66 Sixth Av,Bellbowrie,4070,House,478,4,2,2
+YY-LOC-04,74 Haase Pl,Bellbowrie,4070,House,495,0,2,0
+YY-LOC-04,83 Stuartholme Rd,Bellbowrie,4070,House,546,4,1,1
+YY-LOC-04,85 Considen Pl,Bellbowrie,4070,House,340,4,1,2
+YY-LOC-01,13 Lambert Ct,Brookfield,4069,House,213,1,1,0
+YY-LOC-01,64 Mcmullen Rd,Brookfield,4069,House,429,2,3,2
+YY-LOC-01,13/12 Moordale St,Chapel Hill,4069,Student accommodation,241,0,2,2
+YY-LOC-03,16 Kim St,Chapel Hill,4069,House,414,3,1,1
+YY-LOC-03,18/45 Honeyeater Tr,Chapel Hill,4069,Townhouse,356,2,2,1
+YY-LOC-03,2/37 Hobson Ct,Chapel Hill,4069,Student accommodation,199,1,1,1
+YY-LOC-03,21/12 Figtree Pocket Rd,Chapel Hill,4069,Student accommodation,203,0,2,0
+YY-LOC-03,23 Greenford St,Chapel Hill,4069,House,569,4,1,1
+YY-LOC-03,34 Bulley Pl,Chapel Hill,4069,House,570,3,2,2
+YY-LOC-03,38 Andros St,Chapel Hill,4069,House,404,4,1,2
+YY-LOC-03,44 Henry St,Chapel Hill,4069,House,435,3,1,1
+YY-LOC-03,45 Cassandra St,Chapel Hill,4069,House,654,5,2,1
+YY-LOC-03,49 Karabil St,Chapel Hill,4069,House,1010,4,1,1
+YY-LOC-03,50 Keil Pl,Chapel Hill,4069,House,405,4,2,1
+YY-LOC-03,51 Jocelyn Ct,Chapel Hill,4069,House,536,4,1,1
+YY-LOC-03,58 Ashburton St,Chapel Hill,4069,House,693,6,1,2
+YY-LOC-03,58 Fuelling St,Chapel Hill,4069,House,763,0,3,2
+YY-LOC-03,58 Lucyanne Ct,Chapel Hill,4069,House,770,4,1,0
+YY-LOC-03,59 Eaglie St,Chapel Hill,4069,House,779,5,2,0
+YY-LOC-03,60 Merrilyn St,Chapel Hill,4069,House,662,4,1,2
+YY-LOC-03,61 Kulki Pl,Chapel Hill,4069,House,405,3,1,1
+YY-LOC-03,61 Marmindie St,Chapel Hill,4069,House,595,4,1,1
+YY-LOC-03,66 Ngeringa Cr,Chapel Hill,4069,House,475,4,1,2
+YY-LOC-03,67 Alana Ct,Chapel Hill,4069,House,860,5,1,2
+YY-LOC-03,7 Juberra St,Chapel Hill,4069,House,563,3,1,2
+YY-LOC-03,73 Kiandra St,Chapel Hill,4069,House,678,3,1,1
+YY-LOC-03,73 Narnoo St,Chapel Hill,4069,House,538,3,1,0
+YY-LOC-03,82 Maculata Dr,Chapel Hill,4069,House,119,5,1,0
+YY-LOC-03,89 Chatburn St,Chapel Hill,4069,House,456,4,1,2
+YY-LOC-03,91 Alenola St,Chapel Hill,4069,House,893,5,1,0
+YY-LOC-03,91 Burns Pde,Chapel Hill,4069,House,397,4,1,0
+YY-LOC-03,94 Pearra Pl,Chapel Hill,4069,House,751,5,1,2
+YY-LOC-03,95 Cabramurra St,Chapel Hill,4069,House,128,5,1,2
+YY-LOC-03,99 Farnworth St,Chapel Hill,4069,House,526,3,1,1
+YY-LOC-02,100 Longman Tce,Chelmer,4068,House,502,3,1,1
+YY-LOC-02,39 Regatta St,Chelmer,4068,House,706,6,1,2
+YY-LOC-02,40 Oxley Rd,Chelmer,4068,House,458,3,1,1
+YY-LOC-02,42 Rosebery Tce,Chelmer,4068,House,1316,4,1,2
+YY-LOC-02,6 Honour Av,Chelmer,4068,House,1612,5,2,0
+YY-LOC-02,66 Bridge St,Chelmer,4068,House,154,1,1,1
+YY-LOC-02,76 Plumridge St,Chelmer,4068,House,777,0,2,0
+YY-LOC-02,99 East Chelmer St,Chelmer,4068,House,1817,4,2,2
+YY-LOC-04,1 Allawah Rd,Chuwar,4306,House,417,4,2,2
+YY-LOC-04,10 Cronin Ct,Chuwar,4306,House,432,4,2,1
+YY-LOC-04,57 Blackwall Rd,Chuwar,4306,House,430,4,1,1
+YY-LOC-04,63 Aura Cr,Chuwar,4306,House,452,4,1,0
+YY-LOC-04,71 Junction Rd,Chuwar,4306,House,357,3,1,0
+YY-LOC-04,91 Lascelles Ct,Chuwar,4306,House,392,4,2,1
+YY-LOC-02,10 Turner St,Corinda,4075,House,487,4,1,1
+YY-LOC-02,13/38 Nyon La,Corinda,4075,Flat,295,2,3,0
+YY-LOC-02,13/58 Blackheath Rd,Corinda,4075,Flat,317,2,1,0
+YY-LOC-02,15/49 Neata St,Corinda,4075,Townhouse,471,3,1,1
+YY-LOC-02,16 Donaldson St,Corinda,4075,House,379,3,2,1
+YY-LOC-02,16/15 Stanfell St,Corinda,4075,Flat,305,2,1,1
+YY-LOC-02,19/94 Clara St,Corinda,4075,Flat,289,1,3,1
+YY-LOC-02,21/14 Hereford St,Corinda,4075,Flat,344,2,1,1
+YY-LOC-02,21/32 Spencer St,Corinda,4075,Townhouse,382,3,2,0
+YY-LOC-02,22/47 Deniven St,Corinda,4075,Townhouse,517,4,1,0
+YY-LOC-02,23 Browne St,Corinda,4075,House,156,1,3,2
+YY-LOC-02,23/23 Hughes La,Corinda,4075,Townhouse,594,3,1,0
+YY-LOC-02,23/79 Augustus St,Corinda,4075,Flat,350,2,2,1
+YY-LOC-02,4/46 Rathlyn Av,Corinda,4075,Flat,359,2,1,0
+YY-LOC-02,40 Eddystone Rd,Corinda,4075,House,465,3,1,1
+YY-LOC-02,41 Erinvale St,Corinda,4075,House,513,3,1,0
+YY-LOC-02,42 Martindale St,Corinda,4075,House,751,5,2,1
+YY-LOC-02,5/14 Consort St,Corinda,4075,Flat,297,2,1,1
+YY-LOC-02,5/30 Allen St,Corinda,4075,Flat,157,1,1,1
+YY-LOC-02,5/59 Renoir St,Corinda,4075,Flat,244,0,1,2
+YY-LOC-02,57 Morcom Av,Corinda,4075,House,585,4,2,2
+YY-LOC-02,57 Thalia Ct,Corinda,4075,House,585,4,1,0
+YY-LOC-02,59 Rinora St,Corinda,4075,House,380,2,2,0
+YY-LOC-02,6/96 Walker St,Corinda,4075,Flat,360,2,2,2
+YY-LOC-02,72 Grace St,Corinda,4075,House,548,5,1,0
+YY-LOC-02,75 Clewley St,Corinda,4075,House,336,3,1,0
+YY-LOC-02,78 Balderstone St,Corinda,4075,House,715,5,1,2
+YY-LOC-02,86 Hilda St,Corinda,4075,House,671,4,1,1
+YY-LOC-02,92 Devaney La,Corinda,4075,House,455,4,1,0
+YY-LOC-01,10/16 Picnic St,Enoggera,4051,Flat,291,2,2,0
+YY-LOC-01,100 Fern St,Enoggera,4051,House,206,1,1,1
+YY-LOC-01,11/72 Samford Rd,Enoggera,4051,Townhouse,190,0,3,0
+YY-LOC-01,12/99 Station Av,Enoggera,4051,Townhouse,438,3,1,0
+YY-LOC-01,13/52 Cairo St,Enoggera,4051,Flat,295,1,1,0
+YY-LOC-01,14/2 Weary Dunlop Dr,Enoggera,4051,Flat,161,2,3,1
+YY-LOC-01,14/56 Crescent Av,Enoggera,4051,Flat,400,2,3,1
+YY-LOC-01,14/80 Harding St,Enoggera,4051,Student accommodation,125,1,1,1
+YY-LOC-01,14/88 Nimmo Rd,Enoggera,4051,Flat,247,2,2,2
+YY-LOC-01,15 Cherry St,Enoggera,4051,House,344,3,1,2
+YY-LOC-01,16/22 Brand Rd,Enoggera,4051,Townhouse,384,2,3,1
+YY-LOC-01,17/41 Close St,Enoggera,4051,Flat,500,2,2,2
+YY-LOC-01,19/35 Pickering St,Enoggera,4051,Flat,429,2,3,2
+YY-LOC-01,19/51 Wardell St,Enoggera,4051,Flat,394,2,3,2
+YY-LOC-01,2/12 Douglas St,Enoggera,4051,Student accommodation,205,0,2,2
+YY-LOC-01,2/38 Tunba St,Enoggera,4051,Flat,389,2,3,1
+YY-LOC-01,20/55 Badcoe St,Enoggera,4051,Townhouse,387,2,2,1
+YY-LOC-01,21/47 Brusche Dr,Enoggera,4051,Townhouse,186,3,1,2
+YY-LOC-01,24/7 Magura St,Enoggera,4051,Flat,344,2,3,0
+YY-LOC-01,3/26 View Rd,Enoggera,4051,Flat,505,2,1,0
+YY-LOC-01,3/83 Wynter Rd,Enoggera,4051,Townhouse,468,3,1,2
+YY-LOC-01,34 Lady Galway St,Enoggera,4051,House,399,2,3,1
+YY-LOC-01,4 Edith St,Enoggera,4051,House,542,3,2,2
+YY-LOC-01,4/13 Bugden St,Enoggera,4051,Townhouse,157,3,1,2
+YY-LOC-01,46 Lone Pine St,Enoggera,4051,House,661,4,2,2
+YY-LOC-01,6/57 Borella St,Enoggera,4051,Townhouse,275,3,1,0
+YY-LOC-01,6/68 Peters St,Enoggera,4051,Flat,445,4,1,1
+YY-LOC-01,67 Chathams Post St,Enoggera,4051,House,429,3,1,1
+YY-LOC-01,8/47 Kenny Rd,Enoggera,4051,Flat,427,2,3,1
+YY-LOC-01,86 Mcghie St,Enoggera,4051,House,507,3,1,2
+YY-LOC-01,9 Bell Pl,Enoggera,4051,House,477,3,2,1
+YY-LOC-01,9/81 Elfreda St,Enoggera,4051,Flat,404,2,3,0
+YY-LOC-01,98 Forsyth St,Enoggera,4051,House,561,5,1,1
+YY-LOC-01,1 Greenfern Pl,Ferny Grove,4055,House,375,3,1,0
+YY-LOC-01,13 Clyde Ct,Ferny Grove,4055,House,411,0,1,2
+YY-LOC-01,33 Carrick Pl,Ferny Grove,4055,House,572,4,1,0
+YY-LOC-01,33 Fortrose Pl,Ferny Grove,4055,House,488,3,1,1
+YY-LOC-01,34 Coleraine St,Ferny Grove,4055,House,415,3,1,0
+YY-LOC-01,43 Eriskay Cl,Ferny Grove,4055,House,376,3,1,0
+YY-LOC-01,49 Dornoch Cr,Ferny Grove,4055,House,531,0,1,2
+YY-LOC-01,58 Cromarty Cl,Ferny Grove,4055,House,592,4,1,2
+YY-LOC-01,6 Lanita Rd,Ferny Grove,4055,House,459,4,2,1
+YY-LOC-01,76 Rannoch Cl,Ferny Grove,4055,House,709,4,1,0
+YY-LOC-02,17 Musgrave St,Fig Tree Pocket,4069,House,674,4,1,1
+YY-LOC-02,21 Culmstock Pl,Fig Tree Pocket,4069,House,591,0,3,2
+YY-LOC-02,35 Sanctuary Pl,Fig Tree Pocket,4069,House,514,4,2,0
+YY-LOC-02,45 Pylara St,Fig Tree Pocket,4069,House,557,4,1,2
+YY-LOC-02,62 Ormsby St,Fig Tree Pocket,4069,House,606,3,1,1
+YY-LOC-02,8 Meta Pl,Fig Tree Pocket,4069,House,685,5,1,0
+YY-LOC-02,100 Nadine St,Graceville,4075,House,942,5,1,0
+YY-LOC-02,11/82 Rakeevan Rd,Graceville,4075,Townhouse,482,3,1,1
+YY-LOC-02,12/95 Leybourne St,Graceville,4075,Flat,349,2,1,1
+YY-LOC-02,14/21 East Long St,Graceville,4075,Boarding House,373,2,3,1
+YY-LOC-02,23/9 Oxley Rd,Graceville,4075,Townhouse,459,3,1,1
+YY-LOC-02,25 Coleman St,Graceville,4075,House,455,3,1,0
+YY-LOC-02,3/78 Mcdougall St,Graceville,4075,Townhouse,417,3,1,1
+YY-LOC-02,35 Erroll St,Graceville,4075,House,284,3,1,0
+YY-LOC-02,38 Laurel Av,Graceville,4075,House,456,3,1,2
+YY-LOC-02,5/16 Strong Av,Graceville,4075,Flat,408,2,1,1
+YY-LOC-02,51 Tainton St,Graceville,4075,House,668,3,2,0
+YY-LOC-02,59 Berry St,Graceville,4075,House,446,3,2,2
+YY-LOC-02,63 Jaora St,Graceville,4075,House,1174,5,2,1
+YY-LOC-02,68 Luke St,Graceville,4075,House,516,3,1,1
+YY-LOC-02,7/39 Bell Tce,Graceville,4075,Townhouse,582,3,1,1
+YY-LOC-02,73 Mortlake Rd,Graceville,4075,House,429,3,2,0
+YY-LOC-02,79 Tweedale St,Graceville,4075,House,601,5,2,2
+YY-LOC-02,81 Addison Rd,Graceville,4075,House,1358,5,1,0
+YY-LOC-02,84 Park Dr,Graceville,4075,House,640,4,1,0
+YY-LOC-02,88 Haldane St,Graceville,4075,House,473,3,2,2
+YY-LOC-03,1/1 Market St,Indooroopilly,4068,Flat,497,2,1,1
+YY-LOC-03,1/11 Rylatt St,Indooroopilly,4068,Flat,291,3,2,1
+YY-LOC-03,1/15 Station Rd,Indooroopilly,4068,Flat,532,3,1,1
+YY-LOC-03,1/24 Nelson Pde,Indooroopilly,4068,Flat,311,1,3,0
+YY-LOC-03,1/56 Radnor St,Indooroopilly,4068,Flat,701,2,1,1
+YY-LOC-03,10/29 Balmore St,Indooroopilly,4068,Other,236,4,2,1
+YY-LOC-03,10/34 Greenhood St,Indooroopilly,4068,Flat,384,2,2,0
+YY-LOC-03,10/54 Elmira St,Indooroopilly,4068,Flat,376,2,3,1
+YY-LOC-03,10/71 Nawarra St,Indooroopilly,4068,Flat,783,2,3,2
+YY-LOC-03,10/91 Jackson St,Indooroopilly,4068,Flat,242,1,2,2
+YY-LOC-03,11/71 Bowaga St,Indooroopilly,4068,Student accommodation,196,1,1,2
+YY-LOC-03,11/73 Centenary Mwy,Indooroopilly,4068,Flat,704,3,1,0
+YY-LOC-03,11/9 Railway Av,Indooroopilly,4068,Flat,420,2,1,2
+YY-LOC-03,12/77 Fairley St,Indooroopilly,4068,Flat,317,1,1,2
+YY-LOC-03,13/20 Harts Rd,Indooroopilly,4068,Flat,462,2,2,0
+YY-LOC-03,13/51 Hoylake St,Indooroopilly,4068,Flat,479,3,1,1
+YY-LOC-03,13/52 Rankin St,Indooroopilly,4068,Flat,537,2,1,1
+YY-LOC-03,13/57 Caladenia St,Indooroopilly,4068,Flat,282,2,3,1
+YY-LOC-03,14/26 Rennies Rd,Indooroopilly,4068,Student accommodation,168,1,1,1
+YY-LOC-03,14/67 Goldieslie Rd,Indooroopilly,4068,Townhouse,382,3,1,0
+YY-LOC-03,14/71 Burton St,Indooroopilly,4068,Flat,442,2,1,0
+YY-LOC-03,14/87 Rennie St,Indooroopilly,4068,Flat,490,2,1,2
+YY-LOC-03,14/94 Greenrigg Ct,Indooroopilly,4068,Student accommodation,202,1,1,1
+YY-LOC-03,15/21 Coonan St,Indooroopilly,4068,Flat,664,3,2,1
+YY-LOC-03,15/25 Boundary Rd,Indooroopilly,4068,Flat,347,2,2,1
+YY-LOC-03,15/43 Taringa Pde,Indooroopilly,4068,Flat,336,3,2,1
+YY-LOC-03,15/45 Gladstone St,Indooroopilly,4068,Townhouse,583,3,1,0
+YY-LOC-03,15/56 Ormond Tce,Indooroopilly,4068,Flat,448,4,1,2
+YY-LOC-03,15/88 Cougar St,Indooroopilly,4068,Flat,404,2,2,0
+YY-LOC-03,15/96 Goldieslie Pk,Indooroopilly,4068,Flat,351,2,3,1
+YY-LOC-03,16/14 Foxton St,Indooroopilly,4068,Flat,435,2,1,2
+YY-LOC-03,16/25 Royena Ct,Indooroopilly,4068,Flat,516,3,1,0
+YY-LOC-03,16/53 Carnarvon Rd,Indooroopilly,4068,Flat,455,2,2,0
+YY-LOC-03,16/98 Julie St,Indooroopilly,4068,Student accommodation,159,1,2,0
+YY-LOC-03,17 Carrington Rd,Indooroopilly,4068,House,883,5,2,1
+YY-LOC-03,17/12 Eldon St,Indooroopilly,4068,Flat,871,3,1,1
+YY-LOC-03,17/64 Lytham St,Indooroopilly,4068,Townhouse,566,2,1,1
+YY-LOC-03,17/71 Nolina Ct,Indooroopilly,4068,Flat,494,2,2,1
+YY-LOC-03,18/30 Clarence Rd,Indooroopilly,4068,Flat,684,3,1,2
+YY-LOC-03,18/4 Marston Av,Indooroopilly,4068,Townhouse,477,3,1,0
+YY-LOC-03,19/64 Handel St,Indooroopilly,4068,Flat,520,0,3,2
+YY-LOC-03,2/15 Broomfield St,Indooroopilly,4068,Flat,373,2,3,0
+YY-LOC-03,2/32 Hunter St,Indooroopilly,4068,Townhouse,619,3,1,1
+YY-LOC-03,2/33 Keating St,Indooroopilly,4068,Townhouse,466,3,1,2
+YY-LOC-03,2/74 Lambert Rd,Indooroopilly,4068,Other,152,1,1,1
+YY-LOC-03,2/98 Gilia Ct,Indooroopilly,4068,Flat,491,2,3,1
+YY-LOC-03,20/59 Greenlaw St,Indooroopilly,4068,Townhouse,466,3,1,0
+YY-LOC-03,20/96 Normanby St,Indooroopilly,4068,Flat,562,3,1,1
+YY-LOC-03,21/14 Mccaul St,Indooroopilly,4068,Flat,355,2,1,1
+YY-LOC-03,21/44 Gordon Tce,Indooroopilly,4068,Flat,535,3,2,0
+YY-LOC-03,21/55 Grosvenor Rd,Indooroopilly,4068,Flat,656,2,1,0
+YY-LOC-03,21/72 Almeida St,Indooroopilly,4068,Flat,550,2,3,0
+YY-LOC-03,21/85 Nindethana St,Indooroopilly,4068,Flat,436,3,1,1
+YY-LOC-03,22 Bougainvillea Av,Indooroopilly,4068,House,485,2,3,2
+YY-LOC-03,22/36 Belgrave Rd,Indooroopilly,4068,Flat,499,3,1,1
+YY-LOC-03,22/71 Spring St,Indooroopilly,4068,Flat,533,2,2,0
+YY-LOC-03,22/79 Isles Rd,Indooroopilly,4068,Flat,397,2,2,1
+YY-LOC-03,23/35 Rutledge St,Indooroopilly,4068,Flat,473,2,3,0
+YY-LOC-03,23/49 Saunders St,Indooroopilly,4068,Flat,392,2,2,0
+YY-LOC-03,23/49 Shirley St,Indooroopilly,4068,Flat,448,2,1,2
+YY-LOC-03,23/55 Central Av,Indooroopilly,4068,Flat,402,2,1,0
+YY-LOC-03,23/6 Lily St,Indooroopilly,4068,Flat,558,2,2,0
+YY-LOC-03,23/93 Blackstone St,Indooroopilly,4068,Flat,559,0,3,0
+YY-LOC-03,24 Glasnevin St,Indooroopilly,4068,House,630,3,1,1
+YY-LOC-03,24/11 Lohe St,Indooroopilly,4068,Flat,437,2,3,1
+YY-LOC-03,24/29 Garema St,Indooroopilly,4068,Townhouse,141,0,1,0
+YY-LOC-03,24/29 Jainba St,Indooroopilly,4068,Flat,592,0,2,2
+YY-LOC-03,24/34 Ivy St,Indooroopilly,4068,Flat,416,2,2,2
+YY-LOC-03,24/37 Stamford Rd,Indooroopilly,4068,Townhouse,358,2,2,1
+YY-LOC-03,24/77 Stanley St,Indooroopilly,4068,Flat,323,1,1,1
+YY-LOC-03,25 Jesmond Rd,Indooroopilly,4068,House,481,2,3,2
+YY-LOC-03,3/30 Crotty St,Indooroopilly,4068,Flat,421,2,2,0
+YY-LOC-03,3/32 Dobell St,Indooroopilly,4068,Flat,582,2,2,1
+YY-LOC-03,3/59 Bonhill Ct,Indooroopilly,4068,Flat,478,2,1,0
+YY-LOC-03,3/94 Bunning St,Indooroopilly,4068,Flat,543,2,1,2
+YY-LOC-03,3/97 Furlong St,Indooroopilly,4068,Flat,319,2,2,1
+YY-LOC-03,35 Disraeli St,Indooroopilly,4068,House,398,2,2,2
+YY-LOC-03,36 Moggill Rd,Indooroopilly,4068,House,834,5,1,0
+YY-LOC-03,4/21 Charlane Av,Indooroopilly,4068,Other,184,0,3,0
+YY-LOC-03,4/41 Brinkworth Pl,Indooroopilly,4068,Flat,454,2,2,2
+YY-LOC-03,45 Carinya St,Indooroopilly,4068,House,946,0,2,0
+YY-LOC-03,48 Hillman St,Indooroopilly,4068,House,458,3,2,2
+YY-LOC-03,49 Riverview Tce,Indooroopilly,4068,House,444,3,1,1
+YY-LOC-03,5/2 Carnoustie Ct,Indooroopilly,4068,Townhouse,534,3,1,2
+YY-LOC-03,5/44 Cecil St,Indooroopilly,4068,Student accommodation,102,1,3,1
+YY-LOC-03,5/44 Kinloch St,Indooroopilly,4068,Flat,275,1,1,1
+YY-LOC-03,5/56 Newcross St,Indooroopilly,4068,Flat,493,2,1,1
+YY-LOC-03,5/9 St Andrews Pl,Indooroopilly,4068,Flat,642,2,3,0
+YY-LOC-03,50 Kate St,Indooroopilly,4068,House,514,2,2,1
+YY-LOC-03,57 Salisbury St,Indooroopilly,4068,House,656,4,1,2
+YY-LOC-03,6/25 Jenkinson St,Indooroopilly,4068,Flat,515,2,1,2
+YY-LOC-03,6/51 Harefield St,Indooroopilly,4068,Flat,579,2,1,0
+YY-LOC-03,6/64 Figtree Pocket Rd,Indooroopilly,4068,Flat,343,1,1,2
+YY-LOC-03,6/93 Payne St,Indooroopilly,4068,Flat,484,2,3,0
+YY-LOC-03,61 Glencairn Av,Indooroopilly,4068,House,483,3,1,2
+YY-LOC-03,67 Allwood St,Indooroopilly,4068,House,565,5,1,1
+YY-LOC-03,7 Moggill Rd,Indooroopilly,4068,House,550,5,1,2
+YY-LOC-03,7/1 Indooroopilly Rd,Indooroopilly,4068,Flat,581,2,2,2
+YY-LOC-03,7/18 Clandon St,Indooroopilly,4068,Flat,364,3,1,1
+YY-LOC-03,7/23 Russell Tce,Indooroopilly,4068,Boarding House,179,6,1,1
+YY-LOC-03,7/65 Jilba St,Indooroopilly,4068,Flat,660,2,2,1
+YY-LOC-03,7/70 Gilgandra St,Indooroopilly,4068,Flat,373,2,2,2
+YY-LOC-03,7/89 Cadiz St,Indooroopilly,4068,Flat,374,2,3,1
+YY-LOC-03,77 Aragon St,Indooroopilly,4068,House,475,3,1,1
+YY-LOC-03,77 Kew St,Indooroopilly,4068,House,501,4,1,1
+YY-LOC-03,78 Coverdale St,Indooroopilly,4068,House,828,4,1,1
+YY-LOC-03,79 Castile St,Indooroopilly,4068,House,219,6,1,2
+YY-LOC-03,8 Dennis St,Indooroopilly,4068,House,408,3,2,1
+YY-LOC-03,87 Graham St,Indooroopilly,4068,House,398,3,1,2
+YY-LOC-03,88 Prince St,Indooroopilly,4068,House,116,1,2,1
+YY-LOC-03,9/11 Meiers Rd,Indooroopilly,4068,Flat,613,3,1,1
+YY-LOC-03,9/40 Munro St,Indooroopilly,4068,Flat,865,3,1,0
+YY-LOC-03,9/53 Campus St,Indooroopilly,4068,Flat,656,2,2,1
+YY-LOC-03,9/89 Musgrave Rd,Indooroopilly,4068,Flat,364,2,1,2
+YY-LOC-03,9/99 Aaron Pl,Indooroopilly,4068,Flat,906,3,1,0
+YY-LOC-03,91 Martin La,Indooroopilly,4068,House,316,1,1,1
+YY-LOC-05,24 Port St,Jamboree Heights,4074,House,418,3,1,0
+YY-LOC-05,34 Mercator St,Jamboree Heights,4074,House,412,3,2,2
+YY-LOC-05,35 Tyrrell Rd,Jamboree Heights,4074,House,394,3,1,0
+YY-LOC-05,47 Laptev Cl,Jamboree Heights,4074,House,365,3,2,1
+YY-LOC-05,53 Burgee St,Jamboree Heights,4074,House,389,3,2,1
+YY-LOC-05,68 Guide St,Jamboree Heights,4074,House,358,3,1,0
+YY-LOC-05,74 Beanland St,Jamboree Heights,4074,House,398,3,1,1
+YY-LOC-05,8 Brownie St,Jamboree Heights,4074,House,386,4,1,0
+YY-LOC-05,80 Schooner St,Jamboree Heights,4074,House,334,0,2,0
+YY-LOC-05,85 Aegean Cl,Jamboree Heights,4074,House,474,3,1,0
+YY-LOC-05,9 Bowline St,Jamboree Heights,4074,House,474,3,1,1
+YY-LOC-05,92 Emblem St,Jamboree Heights,4074,House,419,3,1,1
+YY-LOC-05,92 Spinnaker St,Jamboree Heights,4074,House,420,3,2,0
+YY-LOC-05,14 Murragong St,Jindalee,4074,House,476,4,1,2
+YY-LOC-05,38 Mukine St,Jindalee,4074,House,310,3,1,0
+YY-LOC-05,48 Umina St,Jindalee,4074,House,487,3,1,2
+YY-LOC-05,57 Bareena St,Jindalee,4074,House,459,4,1,0
+YY-LOC-05,58 Chipala St,Jindalee,4074,House,467,3,1,1
+YY-LOC-05,58 Nero Cl,Jindalee,4074,House,417,3,1,0
+YY-LOC-05,59 Jirrah St,Jindalee,4074,House,359,3,1,1
+YY-LOC-05,62 Burrendah Rd,Jindalee,4074,House,561,4,2,0
+YY-LOC-05,69 Choopa St,Jindalee,4074,House,449,4,2,1
+YY-LOC-05,8/59 Cobbadah St,Jindalee,4074,Flat,406,2,1,2
+YY-LOC-05,93 Kirami St,Jindalee,4074,House,396,4,2,0
+YY-LOC-05,94 Coonardoo Cl,Jindalee,4074,House,420,4,1,1
+YY-LOC-04,11 Takara Ct,Karana Downs,4306,House,422,4,1,1
+YY-LOC-04,14 College Rd,Karana Downs,4306,House,365,3,1,1
+YY-LOC-04,21 Aringa Cr,Karana Downs,4306,House,318,3,2,2
+YY-LOC-04,21/68 Oakmont Gr,Karana Downs,4306,Townhouse,346,4,1,0
+YY-LOC-04,34 Powells Rd,Karana Downs,4306,House,519,4,1,1
+YY-LOC-04,45 Jamberoo Wy,Karana Downs,4306,House,477,4,2,2
+YY-LOC-04,56 Whyalla Ct,Karana Downs,4306,House,463,3,1,2
+YY-LOC-04,67 Yoolarai Ct,Karana Downs,4306,House,434,5,1,0
+YY-LOC-04,80 Narang Ct,Karana Downs,4306,House,346,0,2,1
+YY-LOC-04,13 Cedarleigh Rd,Kenmore,4069,House,427,0,2,0
+YY-LOC-04,13 Lanark St,Kenmore,4069,House,311,3,1,0
+YY-LOC-04,14/42 Byambee St,Kenmore,4069,Flat,508,3,1,2
+YY-LOC-04,15 Acworth St,Kenmore,4069,House,487,0,2,0
+YY-LOC-04,2/64 Maykurra St,Kenmore,4069,Flat,471,2,2,0
+YY-LOC-04,20 Dusk St,Kenmore,4069,House,543,3,1,1
+YY-LOC-04,25 Donna St,Kenmore,4069,House,669,4,1,0
+YY-LOC-04,28 Ardell St,Kenmore,4069,House,711,4,2,1
+YY-LOC-04,28 Edale St,Kenmore,4069,House,589,3,1,0
+YY-LOC-04,28 Margaret Ct,Kenmore,4069,House,590,0,3,2
+YY-LOC-04,34 Kenmore Rd,Kenmore,4069,House,473,3,1,2
+YY-LOC-04,36 Eversden St,Kenmore,4069,House,367,3,1,1
+YY-LOC-04,38 Bozzato Pl,Kenmore,4069,House,242,1,1,1
+YY-LOC-04,51 Bingham St,Kenmore,4069,House,939,5,1,2
+YY-LOC-04,54 Almay St,Kenmore,4069,House,1092,4,1,0
+YY-LOC-04,58 Ranger St,Kenmore,4069,House,513,4,1,2
+YY-LOC-04,6 Piari St,Kenmore,4069,House,403,3,2,0
+YY-LOC-04,66 Princeton St,Kenmore,4069,House,646,4,1,2
+YY-LOC-04,7 Harvard St,Kenmore,4069,House,529,4,1,2
+YY-LOC-04,7 Rothesay St,Kenmore,4069,House,347,2,3,2
+YY-LOC-04,70 Moonlight St,Kenmore,4069,House,458,3,2,1
+YY-LOC-04,74 Igluna St,Kenmore,4069,House,945,4,2,0
+YY-LOC-04,75 Limita Ct,Kenmore,4069,House,447,3,1,2
+YY-LOC-04,79 Norm St,Kenmore,4069,House,379,3,2,1
+YY-LOC-04,8/62 Dumbarton Dr,Kenmore,4069,Flat,313,0,2,1
+YY-LOC-04,92 Marland St,Kenmore,4069,House,381,0,2,0
+YY-LOC-04,95 Bielby Rd,Kenmore,4069,House,489,2,3,0
+YY-LOC-04,97 Belsize St,Kenmore,4069,House,494,3,2,0
+YY-LOC-04,14 Elwood St,Kenmore Hills,4069,House,876,4,1,0
+YY-LOC-04,62 Rafting Ground Rd,Kenmore Hills,4069,House,571,5,1,0
+YY-LOC-04,65 Kulki Pl,Kenmore Hills,4069,House,614,5,1,2
+YY-LOC-04,7/73 Tinarra Cr,Kenmore Hills,4069,Townhouse,440,3,2,2
+YY-LOC-04,9/64 Lake Manchester Rd,Kholo,4306,Townhouse,205,5,2,2
+YY-LOC-05,17/90 Baronga St,Middle Park,4074,Townhouse,414,3,1,1
+YY-LOC-05,40 Tanglewood St,Middle Park,4074,House,468,3,1,2
+YY-LOC-05,5/41 Carob Cl,Middle Park,4074,Flat,404,2,1,1
+YY-LOC-05,64 Eriboll Cl,Middle Park,4074,House,597,4,1,0
+YY-LOC-05,78 Barup Cl,Middle Park,4074,House,620,4,2,0
+YY-LOC-03,1/32 Finchley St,Milton,4064,Flat,761,2,1,1
+YY-LOC-03,1/33 Camford St,Milton,4064,Flat,277,1,1,2
+YY-LOC-03,10/23 Moffat St,Milton,4064,Flat,503,1,3,0
+YY-LOC-03,10/79 Paten St,Milton,4064,Flat,490,1,3,0
+YY-LOC-03,12/42 Campbell St,Milton,4064,Townhouse,645,4,1,0
+YY-LOC-03,13/16 Isaac St,Milton,4064,Flat,397,2,1,0
+YY-LOC-03,13/99 Patrick St,Milton,4064,Flat,337,2,3,0
+YY-LOC-03,14/100 High St,Milton,4064,Flat,440,0,2,2
+YY-LOC-03,14/2 Nerida La,Milton,4064,Flat,408,0,3,1
+YY-LOC-03,14/32 Young St,Milton,4064,Flat,426,2,2,0
+YY-LOC-03,15/43 Boomerang St,Milton,4064,Flat,507,1,2,1
+YY-LOC-03,17/40 Black St,Milton,4064,Flat,343,1,3,1
+YY-LOC-03,17/44 Manning St,Milton,4064,Flat,381,2,2,2
+YY-LOC-03,17/59 Cordova St,Milton,4064,Flat,367,1,2,0
+YY-LOC-03,18/70 Hall St,Milton,4064,Flat,464,1,1,0
+YY-LOC-03,19/31 Fernberg Rd,Milton,4064,Flat,398,2,2,1
+YY-LOC-03,19/58 Lucy St,Milton,4064,Student accommodation,263,7,1,2
+YY-LOC-03,19/91 Baroona Rd,Milton,4064,Flat,480,1,1,0
+YY-LOC-03,20/43 Dorsey St,Milton,4064,Flat,170,1,3,2
+YY-LOC-03,20/44 Hale St,Milton,4064,Flat,492,2,2,2
+YY-LOC-03,21/24 Railway Tce,Milton,4064,Townhouse,786,3,2,2
+YY-LOC-03,21/84 Chippendall St,Milton,4064,Flat,381,2,1,0
+YY-LOC-03,22/37 Cribb St,Milton,4064,Flat,445,1,2,1
+YY-LOC-03,3/34 Little Cribb St,Milton,4064,Flat,259,1,1,0
+YY-LOC-03,41 Wight St,Milton,4064,House,487,3,2,1
+YY-LOC-03,46 Sheehan St,Milton,4064,House,241,1,3,2
+YY-LOC-03,47 Walsh St,Milton,4064,House,838,4,2,1
+YY-LOC-03,56 Nairn St,Milton,4064,House,191,1,1,2
+YY-LOC-03,59 Mayneview St,Milton,4064,House,672,3,1,0
+YY-LOC-03,6/74 Gardner Cl,Milton,4064,Flat,456,3,1,1
+YY-LOC-03,8/29 Park Rd,Milton,4064,Flat,255,2,3,1
+YY-LOC-04,1 Regency Cr,Moggill,4070,House,370,4,1,1
+YY-LOC-04,11 Witty Rd,Moggill,4070,House,483,4,1,0
+YY-LOC-04,13 Clearwater Ct,Moggill,4070,House,448,4,1,2
+YY-LOC-04,19 Priors Pocket Rd,Moggill,4070,House,400,4,1,0
+YY-LOC-04,2 Hendos Pl,Moggill,4070,House,362,4,1,1
+YY-LOC-04,20/91 Livesay Rd,Moggill,4070,Townhouse,328,3,1,2
+YY-LOC-04,24 Freshwater Pl,Moggill,4070,House,385,4,1,0
+YY-LOC-04,25 Jarrah St,Moggill,4070,House,482,4,1,1
+YY-LOC-04,49 Arthur Tce,Moggill,4070,House,476,4,1,1
+YY-LOC-04,49 Hawkesbury Rd,Moggill,4070,House,602,4,2,1
+YY-LOC-04,55 Glenwood Pl,Moggill,4070,House,390,4,1,2
+YY-LOC-04,58 Nook Pl,Moggill,4070,House,375,0,3,1
+YY-LOC-04,6/46 Mimosa La,Moggill,4070,Flat,339,0,1,2
+YY-LOC-04,71 Kyecody Cl,Moggill,4070,House,520,4,1,2
+YY-LOC-04,71 Matfield St,Moggill,4070,House,628,4,2,0
+YY-LOC-04,94 Joseph Av,Moggill,4070,House,367,4,1,2
+YY-LOC-04,95 Salubris Pl,Moggill,4070,House,489,4,1,0
+YY-LOC-04,38 Jack Kerr Ct,Mount Crosby,4306,House,489,4,1,1
+YY-LOC-04,45 Lake Manchester Rd,Mount Crosby,4306,House,460,4,1,1
+YY-LOC-05,11/27 Church Rd,Mount Ommaney,4074,Townhouse,393,3,1,1
+YY-LOC-05,13/25 Beagle Pl,Mount Ommaney,4074,Townhouse,712,3,1,1
+YY-LOC-05,42 Central Av,Mount Ommaney,4074,House,632,4,1,1
+YY-LOC-05,5/19 Drysdale St,Mount Ommaney,4074,Townhouse,766,4,1,1
+YY-LOC-05,92 Mozart Pl,Mount Ommaney,4074,House,692,5,2,1
+YY-LOC-02,10/93 Seventeen Mile Rocks Rd,Oxley,4075,Townhouse,481,3,1,2
+YY-LOC-02,100 Doral Cl,Oxley,4075,House,165,1,2,2
+YY-LOC-02,11/18 Lyon Av,Oxley,4075,House Boat,341,3,1,1
+YY-LOC-02,13 Campana St,Oxley,4075,House,492,3,2,2
+YY-LOC-02,14/42 Pannard St,Oxley,4075,Townhouse,366,3,1,0
+YY-LOC-02,16/62 Gordon Cct,Oxley,4075,Townhouse,467,3,1,2
+YY-LOC-02,16/89 Moffatt St,Oxley,4075,Townhouse,351,3,1,1
+YY-LOC-02,17/62 Sheffield St,Oxley,4075,Townhouse,380,3,2,1
+YY-LOC-02,19/45 Pinehurst Pl,Oxley,4075,Townhouse,344,3,1,2
+YY-LOC-02,19/48 Henderson St,Oxley,4075,Townhouse,382,3,1,1
+YY-LOC-02,19/96 Freeman Rd,Oxley,4075,Townhouse,179,1,1,2
+YY-LOC-02,2/17 Epworth St,Oxley,4075,Flat,247,1,1,0
+YY-LOC-02,2/53 Englefield Rd,Oxley,4075,Flat,307,2,3,1
+YY-LOC-02,2/89 St Clements Rd,Oxley,4075,Flat,263,2,1,2
+YY-LOC-02,2/90 Kingsgate St,Oxley,4075,Townhouse,343,3,2,2
+YY-LOC-02,20 Blunder Rd,Oxley,4075,House,284,2,2,2
+YY-LOC-02,24/73 Thornburgh St,Oxley,4075,Flat,241,1,3,2
+YY-LOC-02,3 Kimberley St,Oxley,4075,House,627,4,1,0
+YY-LOC-02,34 Patwin St,Oxley,4075,House,470,3,1,0
+YY-LOC-02,35 Dowding St,Oxley,4075,House,617,4,2,2
+YY-LOC-02,38 Portal St,Oxley,4075,House,237,3,2,1
+YY-LOC-02,4/60 Douglas St,Oxley,4075,Townhouse,332,3,1,0
+YY-LOC-02,41 Logan Av,Oxley,4075,House,417,4,1,2
+YY-LOC-02,46 Oxley Rd,Oxley,4075,House,509,4,1,2
+YY-LOC-02,49 Navua St,Oxley,4075,House,363,3,1,0
+YY-LOC-02,51 Landstead St,Oxley,4075,House,345,3,1,0
+YY-LOC-02,52 Muirfield Cr,Oxley,4075,House,346,2,1,1
+YY-LOC-02,55 Hazlehead Pl,Oxley,4075,House,360,0,1,0
+YY-LOC-02,56 Ardoyne Rd,Oxley,4075,House,494,3,1,1
+YY-LOC-02,58 Appoline St,Oxley,4075,House,443,2,2,2
+YY-LOC-02,6/87 Price St,Oxley,4075,Townhouse,428,3,1,0
+YY-LOC-02,60 Selma St,Oxley,4075,House,333,0,3,0
+YY-LOC-02,67 Bayford St,Oxley,4075,House,598,4,1,1
+YY-LOC-02,67 Gregwal Ct,Oxley,4075,House,313,2,2,0
+YY-LOC-02,67 William Tce,Oxley,4075,House,473,4,1,2
+YY-LOC-02,69 Colwel St,Oxley,4075,House,424,3,1,1
+YY-LOC-02,75 Valance St,Oxley,4075,House,414,0,2,1
+YY-LOC-02,8 Atura St,Oxley,4075,House,886,5,1,1
+YY-LOC-02,82 Avalon St,Oxley,4075,House,550,3,1,1
+YY-LOC-02,90 Florence Pl,Oxley,4075,House,427,3,1,1
+YY-LOC-02,97 Oxley Station Rd,Oxley,4075,House,393,3,1,1
+YY-LOC-02,97 Premier St,Oxley,4075,House,420,3,1,2
+YY-LOC-05,34 Mt Crosby Rd,Pinjarra Hills,4069,House,496,4,1,0
+YY-LOC-05,54 Pinjarra Rd,Pinjarra Hills,4069,House,587,0,2,2
+YY-LOC-04,29 Lucas Pl,Pullenvale,4069,House,670,4,1,0
+YY-LOC-04,48 Bainbridge Dr,Pullenvale,4069,House,613,0,2,1
+YY-LOC-04,79 Grandview Rd,Pullenvale,4069,House,335,3,1,2
+YY-LOC-01,10/15 Red Hill Rd,Red Hill,4059,Flat,299,1,2,0
+YY-LOC-01,11/82 Windsor Rd,Red Hill,4059,Other,181,4,1,1
+YY-LOC-01,12/22 Wake St,Red Hill,4059,Flat,240,1,3,1
+YY-LOC-01,12/77 Fred St,Red Hill,4059,Flat,343,2,3,2
+YY-LOC-01,13 Hammond St,Red Hill,4059,House,617,3,1,2
+YY-LOC-01,13/8 Cochrane St,Red Hill,4059,Flat,260,0,2,0
+YY-LOC-01,14/46 Pitt St,Red Hill,4059,Flat,422,2,1,0
+YY-LOC-01,15/88 Bridge St,Red Hill,4059,Townhouse,497,3,1,1
+YY-LOC-01,16/79 Honnerys Rd,Red Hill,4059,Flat,352,2,3,2
+YY-LOC-01,17/34 Cambridge St,Red Hill,4059,Townhouse,408,2,1,2
+YY-LOC-01,17/58 Kennedy Tce,Red Hill,4059,Other,115,1,1,1
+YY-LOC-01,18/37 Mccook St,Red Hill,4059,Other,156,4,1,0
+YY-LOC-01,19/34 St Barnabas Pl,Red Hill,4059,Flat,257,1,1,0
+YY-LOC-01,19/82 Morris St,Red Hill,4059,Flat,247,1,3,2
+YY-LOC-01,2/82 Cross St,Red Hill,4059,Flat,360,2,2,2
+YY-LOC-01,20/11 O'connell Pl,Red Hill,4059,Flat,392,2,1,0
+YY-LOC-01,20/56 Thomas St,Red Hill,4059,Flat,294,2,3,2
+YY-LOC-01,21/45 Broadway St,Red Hill,4059,Flat,297,0,3,0
+YY-LOC-01,21/5 Harriet St,Red Hill,4059,Flat,274,1,3,2
+YY-LOC-01,22/84 Monmouth Rd,Red Hill,4059,Flat,375,2,1,1
+YY-LOC-01,23/86 Little St,Red Hill,4059,Flat,300,1,1,0
+YY-LOC-01,26 Atkins St,Red Hill,4059,House,566,3,1,0
+YY-LOC-01,3/79 Susan St,Red Hill,4059,Other,131,1,2,1
+YY-LOC-01,3/97 Eva St,Red Hill,4059,Flat,295,2,1,1
+YY-LOC-01,30 Kehoe La,Red Hill,4059,House,683,0,2,0
+YY-LOC-01,32 Glenrosa Rd,Red Hill,4059,House,644,3,1,2
+YY-LOC-01,37 Wedrats Rd,Red Hill,4059,House,659,4,1,1
+YY-LOC-01,39 Auburn Rd,Red Hill,4059,House,591,2,2,0
+YY-LOC-01,4/50 Mason St,Red Hill,4059,Flat,576,3,2,2
+YY-LOC-01,41 Lemnos St,Red Hill,4059,House,405,3,1,0
+YY-LOC-01,50 Thorsby St,Red Hill,4059,House,631,3,2,2
+YY-LOC-01,51 Scott St,Red Hill,4059,House,627,4,1,2
+YY-LOC-01,54 Devon St,Red Hill,4059,House,420,0,1,2
+YY-LOC-01,56 Gorrines Rd,Red Hill,4059,House,399,2,2,1
+YY-LOC-01,62 Ella St,Red Hill,4059,House,484,3,1,1
+YY-LOC-01,63 Abraham St,Red Hill,4059,House,680,2,2,2
+YY-LOC-01,7/31 Garling St,Red Hill,4059,Flat,200,1,3,1
+YY-LOC-01,7/96 Gleesons Rd,Red Hill,4059,Townhouse,767,2,2,1
+YY-LOC-01,71 Pascal St,Red Hill,4059,House,376,2,2,1
+YY-LOC-01,72 Carlyle St,Red Hill,4059,House,392,3,1,2
+YY-LOC-01,73 Dyne St,Red Hill,4059,House,737,3,2,2
+YY-LOC-01,73 Enoggera Tce,Red Hill,4059,House,484,3,1,2
+YY-LOC-01,8/14 Murray St,Red Hill,4059,Student accommodation,215,1,2,2
+YY-LOC-01,80 Praed St,Red Hill,4059,House,640,2,3,0
+YY-LOC-01,89 Gray St,Red Hill,4059,House,660,3,1,2
+YY-LOC-01,89 Vale St,Red Hill,4059,House,559,0,2,0
+YY-LOC-01,9/40 Addison St,Red Hill,4059,Flat,500,2,2,0
+YY-LOC-01,9/58 Kensington Pde,Red Hill,4059,Flat,331,2,3,0
+YY-LOC-01,9/95 Edith Tce,Red Hill,4059,Student accommodation,154,0,1,0
+YY-LOC-01,97 Butts Rd,Red Hill,4059,House,645,4,2,2
+YY-LOC-05,1 Athos St,Riverhills,4074,House,795,4,1,0
+YY-LOC-05,16 Tomkins Rd,Riverhills,4074,House,473,4,2,0
+YY-LOC-05,19/76 Nambung Cl,Riverhills,4074,Other,165,1,2,2
+YY-LOC-05,2/58 Langlo St,Riverhills,4074,Townhouse,394,3,1,0
+YY-LOC-05,22/82 Buffalo St,Riverhills,4074,Townhouse,420,3,1,0
+YY-LOC-05,23 Zeil St,Riverhills,4074,House,416,4,1,1
+YY-LOC-05,23/37 Daintree Pl,Riverhills,4074,Student accommodation,210,0,3,0
+YY-LOC-05,3/50 Kakadu Cl,Riverhills,4074,Townhouse,378,4,2,0
+YY-LOC-05,34 Girraween Cl,Riverhills,4074,House,430,3,1,0
+YY-LOC-05,36 Ararat St,Riverhills,4074,House,303,4,2,1
+YY-LOC-05,36 Etna Cl,Riverhills,4074,House,473,3,1,2
+YY-LOC-05,4/100 Juba St,Riverhills,4074,Townhouse,415,2,1,1
+YY-LOC-05,47 Hazelton St,Riverhills,4074,House,456,4,2,0
+YY-LOC-05,50 Kaputar Cl,Riverhills,4074,House,447,3,1,1
+YY-LOC-05,55 Tigris St,Riverhills,4074,House,455,3,1,0
+YY-LOC-05,59 Tobin St,Riverhills,4074,House,308,3,1,0
+YY-LOC-05,65 Paluna St,Riverhills,4074,House,379,3,1,1
+YY-LOC-05,80 Kalbarri St,Riverhills,4074,House,444,4,1,0
+YY-LOC-05,83 Cascade Cl,Riverhills,4074,House,487,4,1,1
+YY-LOC-05,96 Trephina Cl,Riverhills,4074,House,434,3,2,0
+YY-LOC-02,10 Augustus St,Sherwood,4075,House,513,3,1,2
+YY-LOC-02,10 Turner St,Sherwood,4075,House,543,0,2,1
+YY-LOC-02,10/26 Egmont St,Sherwood,4075,Townhouse,414,2,1,1
+YY-LOC-02,10/67 Ettie St,Sherwood,4075,Townhouse,471,3,2,2
+YY-LOC-02,10/99 Tainton St,Sherwood,4075,Townhouse,441,3,1,2
+YY-LOC-02,12 Dewar Tce,Sherwood,4075,House,407,4,2,0
+YY-LOC-02,12 Elizabeth St,Sherwood,4075,House,1074,4,1,1
+YY-LOC-02,12/23 Hazelmere Pde,Sherwood,4075,Townhouse,406,3,1,2
+YY-LOC-02,12/23 Lockwood St,Sherwood,4075,Flat,540,0,1,1
+YY-LOC-02,13/27 Ferry St,Sherwood,4075,Townhouse,592,3,1,0
+YY-LOC-02,13/69 Douglas St,Sherwood,4075,Flat,439,0,1,1
+YY-LOC-02,13/92 Sherwood Rd,Sherwood,4075,Flat,294,2,1,1
+YY-LOC-02,14/6 Mayhew St,Sherwood,4075,Flat,427,2,1,0
+YY-LOC-02,15 Hedges St,Sherwood,4075,House,310,3,1,2
+YY-LOC-02,15/86 Hall St,Sherwood,4075,Flat,327,2,1,2
+YY-LOC-02,16/50 Plumer St,Sherwood,4075,Flat,337,2,2,2
+YY-LOC-02,16/95 Park Tce,Sherwood,4075,Townhouse,602,3,2,0
+YY-LOC-02,17/56 Dunella St,Sherwood,4075,Flat,281,2,1,1
+YY-LOC-02,18/13 Johnstone St,Sherwood,4075,Flat,442,2,1,2
+YY-LOC-02,2/48 Borden St,Sherwood,4075,Flat,408,2,1,2
+YY-LOC-02,21/74 Quarry Rd,Sherwood,4075,Flat,315,2,2,1
+YY-LOC-02,22/21 Chancellor St,Sherwood,4075,Flat,266,3,2,2
+YY-LOC-02,24/67 Oman St,Sherwood,4075,Flat,349,2,3,2
+YY-LOC-02,24/72 Strickland Tce,Sherwood,4075,Flat,585,0,2,1
+YY-LOC-02,24/77 Oxley Rd,Sherwood,4075,Townhouse,792,3,1,0
+YY-LOC-02,24/94 Junction St,Sherwood,4075,Flat,280,2,2,2
+YY-LOC-02,3/35 Galloway St,Sherwood,4075,Townhouse,624,3,1,2
+YY-LOC-02,3/51 Barchester St,Sherwood,4075,Flat,426,2,1,1
+YY-LOC-02,3/60 Jerrold St,Sherwood,4075,Flat,369,2,3,0
+YY-LOC-02,4/24 Lance St,Sherwood,4075,Flat,306,1,2,1
+YY-LOC-02,45 Woodberry Av,Sherwood,4075,House,439,4,1,1
+YY-LOC-02,59 Skew St,Sherwood,4075,House,363,2,2,0
+YY-LOC-02,6/87 Kitchener St,Sherwood,4075,Other,197,0,3,1
+YY-LOC-02,62 Weinholt St,Sherwood,4075,House,514,3,1,2
+YY-LOC-02,72 Joseph St,Sherwood,4075,House,494,4,1,1
+YY-LOC-02,78 Thallon St,Sherwood,4075,House,320,3,1,1
+YY-LOC-02,9 Chancellor St,Sherwood,4075,House,500,3,1,1
+YY-LOC-02,9/56 Jolimont St,Sherwood,4075,Flat,489,2,1,2
+YY-LOC-02,90 Linda St,Sherwood,4075,House,351,3,1,2
+YY-LOC-02,92 Mcdougall St,Sherwood,4075,House,266,2,3,0
+YY-LOC-02,97 Lance St,Sherwood,4075,House,435,3,1,0
+YY-LOC-02,98 Blackwood St,Sherwood,4075,House,501,3,1,1
+YY-LOC-02,98 Harrowby St,Sherwood,4075,House,361,3,2,2
+YY-LOC-05,12 Cherry Cl,Sinnamon Park,4073,House,659,4,1,1
+YY-LOC-05,23/40 Edward Pl,Sinnamon Park,4073,Townhouse,383,3,1,1
+YY-LOC-05,24/95 Benjamin Pl,Sinnamon Park,4073,Townhouse,404,2,3,2
+YY-LOC-05,30 Olympic Pl,Sinnamon Park,4073,House,429,4,1,0
+YY-LOC-05,34 Greenhill Ct,Sinnamon Park,4073,House,643,4,1,0
+YY-LOC-05,46 Sarah Ct,Sinnamon Park,4073,House,472,3,1,0
+YY-LOC-05,5/66 Brinley Pl,Sinnamon Park,4073,Townhouse,366,2,3,1
+YY-LOC-05,5/70 Ayside Cl,Sinnamon Park,4073,Flat,455,0,3,2
+YY-LOC-05,50 Nebo Pl,Sinnamon Park,4073,House,591,0,1,0
+YY-LOC-05,62 Lakeside Cct,Sinnamon Park,4073,House,426,3,1,2
+YY-LOC-05,91 Jason St,Sinnamon Park,4073,House,392,4,1,1
+YY-LOC-05,94 Seventeen Mile Rocks Rd,Sinnamon Park,4073,House,589,4,1,2
+YY-LOC-03,1/14 Blair Dr,St Lucia,4067,Flat,318,1,3,2
+YY-LOC-03,1/60 Twelfth Av,St Lucia,4067,Student accommodation,571,0,1,0
+YY-LOC-03,1/67 Camira St,St Lucia,4067,Flat,641,3,1,2
+YY-LOC-03,1/70 Sir Fred Schonell Dr,St Lucia,4067,Student accommodation,374,1,2,1
+YY-LOC-03,10/29 Armadale St,St Lucia,4067,Flat,475,1,1,0
+YY-LOC-03,10/33 Bishop St,St Lucia,4067,Student accommodation,438,0,1,1
+YY-LOC-03,10/37 Bonvale La,St Lucia,4067,Student accommodation,565,0,1,2
+YY-LOC-03,10/43 Camira St,St Lucia,4067,Other,242,0,2,0
+YY-LOC-03,10/45 Fifth Av,St Lucia,4067,Flat,395,3,1,2
+YY-LOC-03,100 Bellevue Tce,St Lucia,4067,House,511,3,1,1
+YY-LOC-03,11/18 Lamont St,St Lucia,4067,Flat,238,1,2,0
+YY-LOC-03,11/31 Fifth Av,St Lucia,4067,Student accommodation,222,4,2,1
+YY-LOC-03,11/35 Ironside St,St Lucia,4067,Flat,248,3,1,0
+YY-LOC-03,11/37 Blair Dr,St Lucia,4067,Flat,649,2,2,2
+YY-LOC-03,11/63 Bishop St,St Lucia,4067,Flat,359,2,1,2
+YY-LOC-03,11/65 Guilfoyle St,St Lucia,4067,Student accommodation,486,1,1,2
+YY-LOC-03,11/70 Fifth Av,St Lucia,4067,Student accommodation,167,5,1,0
+YY-LOC-03,11/86 Dengate La,St Lucia,4067,Student accommodation,415,1,2,1
+YY-LOC-03,12 Camira St,St Lucia,4067,House,936,4,2,0
+YY-LOC-03,12 Dengate La,St Lucia,4067,House,1051,5,1,1
+YY-LOC-03,12/10 Fifth Av,St Lucia,4067,Student accommodation,588,1,1,2
+YY-LOC-03,12/15 Brisbane St,St Lucia,4067,Student accommodation,573,0,1,2
+YY-LOC-03,12/15 Bryce St,St Lucia,4067,Flat,499,2,1,1
+YY-LOC-03,12/18 Camira St,St Lucia,4067,Flat,329,2,1,2
+YY-LOC-03,12/26 Boomerang Rd,St Lucia,4067,Flat,380,2,1,2
+YY-LOC-03,12/27 Baty St,St Lucia,4067,Flat,708,3,1,0
+YY-LOC-03,12/40 Campbell Rd,St Lucia,4067,Student accommodation,197,0,2,2
+YY-LOC-03,12/63 Guilfoyle St,St Lucia,4067,Student accommodation,194,1,1,1
+YY-LOC-03,12/65 Campbell Rd,St Lucia,4067,Student accommodation,291,0,3,2
+YY-LOC-03,12/67 Coldridge St,St Lucia,4067,Flat,521,2,2,1
+YY-LOC-03,12/76 Brisbane St,St Lucia,4067,Flat,776,3,1,1
+YY-LOC-03,13/20 Boomerang Rd,St Lucia,4067,Flat,719,2,2,2
+YY-LOC-03,13/43 Bishop St,St Lucia,4067,Flat,752,3,1,1
+YY-LOC-03,13/54 Picardy St,St Lucia,4067,Flat,319,1,3,0
+YY-LOC-03,13/57 Guilfoyle St,St Lucia,4067,Flat,349,0,1,0
+YY-LOC-03,13/78 Mavis St,St Lucia,4067,Student accommodation,183,1,1,0
+YY-LOC-03,14 Napier St,St Lucia,4067,House,1084,4,2,2
+YY-LOC-03,14 Tenth Av,St Lucia,4067,House,469,5,1,0
+YY-LOC-03,14/27 Townley St,St Lucia,4067,Student accommodation,388,0,1,1
+YY-LOC-03,14/34 Depper St,St Lucia,4067,Flat,483,2,2,2
+YY-LOC-03,14/47 Blair Dr,St Lucia,4067,Flat,777,2,3,2
+YY-LOC-03,14/48 Baty St,St Lucia,4067,Student accommodation,230,1,1,1
+YY-LOC-03,14/56 Durham St,St Lucia,4067,Student accommodation,533,1,2,0
+YY-LOC-03,14/71 Armadale St,St Lucia,4067,Student accommodation,235,1,1,1
+YY-LOC-03,14/77 Mansfield Pl,St Lucia,4067,Student accommodation,174,0,1,0
+YY-LOC-03,14/78 Campbell Rd,St Lucia,4067,Flat,644,2,1,2
+YY-LOC-03,14/79 Dell Rd,St Lucia,4067,Flat,1090,4,1,1
+YY-LOC-03,14/87 Austral St,St Lucia,4067,Flat,565,2,1,0
+YY-LOC-03,14/88 Hillside Tce,St Lucia,4067,Flat,439,2,2,2
+YY-LOC-03,14/91 Highview Tce,St Lucia,4067,Student accommodation,460,1,1,0
+YY-LOC-03,15 Durham St,St Lucia,4067,House,221,4,2,0
+YY-LOC-03,15/100 Aquinas Ct,St Lucia,4067,Student accommodation,305,0,3,2
+YY-LOC-03,15/28 Bellevue Tce,St Lucia,4067,Flat,775,2,1,0
+YY-LOC-03,15/50 Bryce St,St Lucia,4067,Flat,596,3,2,2
+YY-LOC-03,15/57 Hawken Dr,St Lucia,4067,Other,196,1,2,1
+YY-LOC-03,15/59 Bonvale La,St Lucia,4067,Flat,582,3,2,2
+YY-LOC-03,15/69 Austral St,St Lucia,4067,Townhouse,488,3,2,1
+YY-LOC-03,15/80 Aquinas Ct,St Lucia,4067,Student accommodation,558,1,1,2
+YY-LOC-03,15/87 Macquarie St,St Lucia,4067,Flat,302,2,2,1
+YY-LOC-03,15/95 Swann Rd,St Lucia,4067,Student accommodation,497,0,1,2
+YY-LOC-03,16/100 Hawken Dr,St Lucia,4067,Flat,298,2,2,0
+YY-LOC-03,16/12 Hood St,St Lucia,4067,Student accommodation,244,1,1,2
+YY-LOC-03,16/3 Carr St,St Lucia,4067,Townhouse,603,2,1,0
+YY-LOC-03,16/52 Sir William Macgregor Dr,St Lucia,4067,Student accommodation,322,1,2,2
+YY-LOC-03,16/65 Bryce St,St Lucia,4067,Flat,464,1,3,1
+YY-LOC-03,16/68 Depper St,St Lucia,4067,Student accommodation,439,1,2,0
+YY-LOC-03,16/84 Boomerang Rd,St Lucia,4067,Student accommodation,375,0,3,1
+YY-LOC-03,17 Aquinas Ct,St Lucia,4067,House,189,3,1,2
+YY-LOC-03,17 Armadale St,St Lucia,4067,House,236,0,3,2
+YY-LOC-03,17/10 Laurence St,St Lucia,4067,Flat,575,2,3,0
+YY-LOC-03,17/11 Glenolive La,St Lucia,4067,Flat,323,1,1,0
+YY-LOC-03,17/18 Hutton La,St Lucia,4067,Flat,423,2,2,0
+YY-LOC-03,17/2 Bellevue Tce,St Lucia,4067,Student accommodation,559,0,2,1
+YY-LOC-03,17/22 Brisbane St,St Lucia,4067,Student accommodation,215,1,2,0
+YY-LOC-03,17/25 Hutton La,St Lucia,4067,Student accommodation,523,1,3,2
+YY-LOC-03,17/30 Mavis St,St Lucia,4067,Flat,698,2,1,1
+YY-LOC-03,17/69 Brisbane St,St Lucia,4067,Flat,375,2,1,2
+YY-LOC-03,17/7 Guilfoyle St,St Lucia,4067,Student accommodation,172,5,1,1
+YY-LOC-03,17/81 Boomerang Rd,St Lucia,4067,Flat,572,4,1,0
+YY-LOC-03,18/13 Baty St,St Lucia,4067,Flat,584,2,2,2
+YY-LOC-03,18/13 Upland Rd,St Lucia,4067,Flat,367,2,2,2
+YY-LOC-03,18/14 Carawa St,St Lucia,4067,Flat,563,2,1,0
+YY-LOC-03,18/26 Mervyn Gr,St Lucia,4067,Other,278,1,1,1
+YY-LOC-03,18/30 Bryce St,St Lucia,4067,Student accommodation,299,1,1,0
+YY-LOC-03,18/40 Brisbane St,St Lucia,4067,Flat,714,2,1,0
+YY-LOC-03,18/43 Ryans Rd,St Lucia,4067,Other,468,1,1,1
+YY-LOC-03,18/71 Swann Rd,St Lucia,4067,Flat,404,2,1,2
+YY-LOC-03,18/72 Austral St,St Lucia,4067,Student accommodation,221,1,1,0
+YY-LOC-03,18/86 Carawa St,St Lucia,4067,Flat,546,2,2,1
+YY-LOC-03,18/91 Aquinas Ct,St Lucia,4067,Flat,472,0,2,2
+YY-LOC-03,18/95 Tenth Av,St Lucia,4067,Student accommodation,341,0,2,2
+YY-LOC-03,19/32 Mill Rd,St Lucia,4067,Other,203,1,2,2
+YY-LOC-03,19/50 Armadale St,St Lucia,4067,Student accommodation,408,0,2,0
+YY-LOC-03,19/57 Eighth Av,St Lucia,4067,Student accommodation,467,1,2,2
+YY-LOC-03,19/59 Eighth Av,St Lucia,4067,Student accommodation,212,3,1,1
+YY-LOC-03,19/60 Durham St,St Lucia,4067,Student accommodation,388,2,1,1
+YY-LOC-03,19/88 Hood St,St Lucia,4067,Student accommodation,490,0,3,1
+YY-LOC-03,19/97 Mansfield Pl,St Lucia,4067,Flat,438,2,1,1
+YY-LOC-03,19/97 Sixth Av,St Lucia,4067,Flat,430,1,1,1
+YY-LOC-03,2/12 Hood St,St Lucia,4067,Student accommodation,649,1,3,0
+YY-LOC-03,2/32 Sisley St,St Lucia,4067,Student accommodation,485,1,2,0
+YY-LOC-03,2/49 Walcott St,St Lucia,4067,Flat,505,2,3,2
+YY-LOC-03,2/5 Highview Tce,St Lucia,4067,Other,259,1,1,0
+YY-LOC-03,2/57 Eleventh Av,St Lucia,4067,Student accommodation,550,1,2,0
+YY-LOC-03,2/68 Carawa St,St Lucia,4067,Flat,434,2,1,0
+YY-LOC-03,2/73 Warren St,St Lucia,4067,Other,538,1,2,2
+YY-LOC-03,2/89 Hiron St,St Lucia,4067,Student accommodation,554,1,1,2
+YY-LOC-03,20 Carmody Rd,St Lucia,4067,House,252,1,3,1
+YY-LOC-03,20/18 Ninth Av,St Lucia,4067,Student accommodation,296,0,3,0
+YY-LOC-03,20/19 Austral St,St Lucia,4067,Student accommodation,414,0,3,0
+YY-LOC-03,20/23 Carawa St,St Lucia,4067,Student accommodation,202,6,1,2
+YY-LOC-03,20/46 Dell Rd,St Lucia,4067,Student accommodation,431,2,3,2
+YY-LOC-03,20/58 Blair Dr,St Lucia,4067,Student accommodation,238,0,1,0
+YY-LOC-03,20/64 Coldridge St,St Lucia,4067,Flat,866,3,2,0
+YY-LOC-03,20/7 Orchard Tce,St Lucia,4067,Flat,394,2,2,0
+YY-LOC-03,20/73 Highland Tce,St Lucia,4067,Student accommodation,385,4,1,2
+YY-LOC-03,20/75 Carawa St,St Lucia,4067,Flat,881,4,2,2
+YY-LOC-03,21/2 Camira St,St Lucia,4067,Student accommodation,396,0,3,0
+YY-LOC-03,21/20 Highview Tce,St Lucia,4067,Student accommodation,368,1,1,0
+YY-LOC-03,21/41 Bonvale La,St Lucia,4067,Flat,794,2,1,2
+YY-LOC-03,21/56 Bellevue Tce,St Lucia,4067,Flat,486,2,3,1
+YY-LOC-03,21/76 Aquinas Ct,St Lucia,4067,Flat,597,2,3,2
+YY-LOC-03,21/96 Douglas St,St Lucia,4067,Student accommodation,467,1,2,1
+YY-LOC-03,21/99 Jerdanefield Rd,St Lucia,4067,Student accommodation,514,1,3,0
+YY-LOC-03,22/17 Hillside Tce,St Lucia,4067,Student accommodation,473,1,3,2
+YY-LOC-03,22/23 Laurence St,St Lucia,4067,Student accommodation,229,5,1,0
+YY-LOC-03,22/32 Bishop St,St Lucia,4067,Flat,481,2,2,0
+YY-LOC-03,22/4 Bellevue Tce,St Lucia,4067,Student accommodation,200,0,3,2
+YY-LOC-03,22/6 Rock St,St Lucia,4067,Student accommodation,397,0,1,1
+YY-LOC-03,22/70 Dengate La,St Lucia,4067,Student accommodation,452,0,1,0
+YY-LOC-03,22/90 Services Rd,St Lucia,4067,Student accommodation,503,1,1,0
+YY-LOC-03,22/91 Townley St,St Lucia,4067,Flat,418,2,1,2
+YY-LOC-03,23/15 Glenolive La,St Lucia,4067,Flat,226,2,2,0
+YY-LOC-03,23/17 Carawa St,St Lucia,4067,Student accommodation,311,0,2,2
+YY-LOC-03,23/23 Douglas St,St Lucia,4067,Student accommodation,453,2,1,2
+YY-LOC-03,23/51 Bellevue Tce,St Lucia,4067,Flat,327,1,2,2
+YY-LOC-03,23/53 Raglan St,St Lucia,4067,Flat,351,1,2,0
+YY-LOC-03,23/61 Blair Dr,St Lucia,4067,Student accommodation,430,0,1,0
+YY-LOC-03,23/7 Hiron St,St Lucia,4067,Flat,439,2,1,0
+YY-LOC-03,23/80 Boomerang Rd,St Lucia,4067,Flat,689,2,2,1
+YY-LOC-03,23/82 Bonvale La,St Lucia,4067,Other,347,1,2,2
+YY-LOC-03,23/82 Tarcoola St,St Lucia,4067,Student accommodation,548,0,1,2
+YY-LOC-03,23/90 Glenolive La,St Lucia,4067,Student accommodation,388,1,1,0
+YY-LOC-03,23/99 Douglas St,St Lucia,4067,Other,267,1,1,2
+YY-LOC-03,24/16 Dengate La,St Lucia,4067,Flat,244,1,2,0
+YY-LOC-03,24/37 Brisbane St,St Lucia,4067,Flat,437,3,1,1
+YY-LOC-03,24/37 Coldridge St,St Lucia,4067,Flat,447,3,1,0
+YY-LOC-03,24/67 Aquinas Ct,St Lucia,4067,Student accommodation,453,0,2,1
+YY-LOC-03,24/67 Upland Rd,St Lucia,4067,Student accommodation,569,0,2,1
+YY-LOC-03,24/81 Eleventh Av,St Lucia,4067,Flat,457,1,1,0
+YY-LOC-03,24/89 Dell Rd,St Lucia,4067,Flat,524,1,2,0
+YY-LOC-03,24/93 Jocks Rd,St Lucia,4067,Flat,268,1,2,1
+YY-LOC-03,26 Bryce St,St Lucia,4067,House,674,3,2,1
+YY-LOC-03,29 Durham St,St Lucia,4067,House,195,4,2,1
+YY-LOC-03,29 Prospect Tce,St Lucia,4067,House,311,0,2,0
+YY-LOC-03,3/1 Austral St,St Lucia,4067,Student accommodation,240,1,2,1
+YY-LOC-03,3/21 Carmody Rd,St Lucia,4067,Flat,548,3,1,1
+YY-LOC-03,3/33 Carr St,St Lucia,4067,Flat,472,2,1,1
+YY-LOC-03,3/37 Campbell Rd,St Lucia,4067,Flat,933,3,1,1
+YY-LOC-03,3/52 Keith St,St Lucia,4067,Other,520,1,1,2
+YY-LOC-03,3/58 Eleventh Av,St Lucia,4067,Student accommodation,194,5,1,0
+YY-LOC-03,3/82 Keith St,St Lucia,4067,Flat,268,1,2,2
+YY-LOC-03,3/94 Highland Tce,St Lucia,4067,Flat,340,2,2,1
+YY-LOC-03,3/96 Armadale St,St Lucia,4067,Student accommodation,421,1,2,0
+YY-LOC-03,3/96 Raven St,St Lucia,4067,Flat,323,1,2,2
+YY-LOC-03,32 Eighth Av,St Lucia,4067,House,194,6,1,0
+YY-LOC-03,34 Bonvale La,St Lucia,4067,House,191,1,2,2
+YY-LOC-03,36 Depper St,St Lucia,4067,House,140,5,1,0
+YY-LOC-03,36 Munro St,St Lucia,4067,House,287,5,1,2
+YY-LOC-03,4 Bonvale La,St Lucia,4067,House,718,3,1,2
+YY-LOC-03,4/35 Central Av,St Lucia,4067,Flat,617,2,2,1
+YY-LOC-03,4/4 Central Av,St Lucia,4067,Flat,585,2,3,2
+YY-LOC-03,4/58 Bryce St,St Lucia,4067,Student accommodation,541,1,3,2
+YY-LOC-03,4/67 Camira St,St Lucia,4067,Flat,792,3,1,0
+YY-LOC-03,4/71 Napier St,St Lucia,4067,Other,211,1,1,0
+YY-LOC-03,4/74 Douglas St,St Lucia,4067,Other,1013,5,1,0
+YY-LOC-03,4/84 Glenolive La,St Lucia,4067,Student accommodation,210,1,2,1
+YY-LOC-03,4/89 Carr St,St Lucia,4067,Student accommodation,312,1,1,0
+YY-LOC-03,41 Eleventh Av,St Lucia,4067,House,275,3,1,0
+YY-LOC-03,42 Hillside Tce,St Lucia,4067,House,230,3,1,0
+YY-LOC-03,44 Dell Rd,St Lucia,4067,House,881,4,1,1
+YY-LOC-03,45 Depper St,St Lucia,4067,House,1186,0,3,1
+YY-LOC-03,47 Boomerang Rd,St Lucia,4067,House,264,3,1,2
+YY-LOC-03,5/25 Lamont St,St Lucia,4067,Townhouse,438,2,1,1
+YY-LOC-03,5/26 Hood St,St Lucia,4067,Flat,441,0,1,1
+YY-LOC-03,5/3 Tarcoola St,St Lucia,4067,Flat,439,2,2,1
+YY-LOC-03,6/20 Seventh Av,St Lucia,4067,Student accommodation,475,0,2,0
+YY-LOC-03,6/29 Twelfth Av,St Lucia,4067,Flat,513,2,1,0
+YY-LOC-03,6/36 Baty St,St Lucia,4067,Student accommodation,541,0,1,2
+YY-LOC-03,6/55 Hiron St,St Lucia,4067,Student accommodation,383,1,1,0
+YY-LOC-03,6/66 Blair Dr,St Lucia,4067,Flat,512,2,2,1
+YY-LOC-03,6/87 Hawken Dr,St Lucia,4067,Student accommodation,544,1,2,0
+YY-LOC-03,6/89 Carmody Rd,St Lucia,4067,Flat,564,3,1,0
+YY-LOC-03,6/9 Hutton La,St Lucia,4067,Student accommodation,271,6,1,0
+YY-LOC-03,63 Mill Rd,St Lucia,4067,House,638,0,2,1
+YY-LOC-03,68 Highland Tce,St Lucia,4067,House,193,1,1,0
+YY-LOC-03,68 Munro St,St Lucia,4067,House,944,3,2,2
+YY-LOC-03,7/19 Bishop St,St Lucia,4067,Flat,685,3,1,2
+YY-LOC-03,7/28 Bishop St,St Lucia,4067,Student accommodation,242,1,1,2
+YY-LOC-03,7/46 Jocks Rd,St Lucia,4067,Student accommodation,417,1,1,0
+YY-LOC-03,7/56 Hillside Tce,St Lucia,4067,Flat,427,2,1,0
+YY-LOC-03,7/58 Sandford St,St Lucia,4067,Student accommodation,369,1,3,1
+YY-LOC-03,7/73 Armadale St,St Lucia,4067,Flat,625,2,3,2
+YY-LOC-03,7/88 Ironside St,St Lucia,4067,Flat,471,2,1,2
+YY-LOC-03,73 Baty St,St Lucia,4067,House,222,3,1,2
+YY-LOC-03,8 Central Av,St Lucia,4067,House,1094,4,2,2
+YY-LOC-03,8/18 Jerdanefield Rd,St Lucia,4067,Flat,180,1,1,1
+YY-LOC-03,8/31 Coldridge St,St Lucia,4067,Student accommodation,287,0,3,0
+YY-LOC-03,8/35 Highland Tce,St Lucia,4067,Student accommodation,491,1,2,2
+YY-LOC-03,8/4 Campbell Rd,St Lucia,4067,Flat,537,2,2,1
+YY-LOC-03,8/62 Highview Tce,St Lucia,4067,Flat,357,2,3,0
+YY-LOC-03,8/63 Old Cooper Rd,St Lucia,4067,Flat,224,1,1,0
+YY-LOC-03,85 Hiron St,St Lucia,4067,House,222,6,1,2
+YY-LOC-03,88 Carr St,St Lucia,4067,House,775,5,2,0
+YY-LOC-03,9/100 Hutton La,St Lucia,4067,Flat,401,0,2,2
+YY-LOC-03,9/27 Mitre St,St Lucia,4067,Townhouse,911,4,1,0
+YY-LOC-03,9/51 Mervyn Gr,St Lucia,4067,Flat,702,3,1,2
+YY-LOC-03,9/67 Mitre St,St Lucia,4067,Student accommodation,210,1,1,2
+YY-LOC-03,9/69 Eighth Av,St Lucia,4067,Student accommodation,557,1,2,0
+YY-LOC-03,9/70 Macquarie St,St Lucia,4067,Flat,595,2,2,1
+YY-LOC-03,9/85 Austral St,St Lucia,4067,Flat,493,1,2,2
+YY-LOC-03,9/85 Hawken Dr,St Lucia,4067,Flat,462,1,1,0
+YY-LOC-03,94 Campbell Rd,St Lucia,4067,House,570,2,2,1
+YY-LOC-03,94 Carmody Rd,St Lucia,4067,House,983,5,1,0
+YY-LOC-03,97 Baty St,St Lucia,4067,House,596,3,1,1
+YY-LOC-03,99 Central Av,St Lucia,4067,House,277,5,1,0
+YY-LOC-03,1/15 Ruskin St,Taringa,4068,Other,280,1,2,0
+YY-LOC-03,1/17 Raglan St,Taringa,4068,Flat,251,2,2,0
+YY-LOC-03,1/19 Miskin St,Taringa,4068,Flat,294,2,3,2
+YY-LOC-03,1/45 Bywong St,Taringa,4068,Flat,533,1,2,2
+YY-LOC-03,1/45 Stanley Tce,Taringa,4068,Flat,371,2,1,1
+YY-LOC-03,1/54 Clarence Rd,Taringa,4068,Flat,469,2,1,2
+YY-LOC-03,1/65 Moggill Rd,Taringa,4068,Flat,457,2,1,2
+YY-LOC-03,1/68 Ruskin St,Taringa,4068,Flat,398,0,3,1
+YY-LOC-03,1/87 Swann Rd,Taringa,4068,Flat,323,2,1,0
+YY-LOC-03,1/92 Burns St,Taringa,4068,Flat,330,0,2,2
+YY-LOC-03,10/23 Bellevue Pde,Taringa,4068,Flat,436,2,1,2
+YY-LOC-03,10/48 George St,Taringa,4068,Flat,201,1,3,0
+YY-LOC-03,10/64 Princess St,Taringa,4068,Flat,289,1,1,0
+YY-LOC-03,11/24 Mcinroy St,Taringa,4068,Flat,446,1,2,1
+YY-LOC-03,12/18 Burns Rd,Taringa,4068,Flat,348,1,3,0
+YY-LOC-03,12/20 Lucinda St,Taringa,4068,Flat,259,2,1,0
+YY-LOC-03,12/66 Dampier St,Taringa,4068,Flat,285,2,1,0
+YY-LOC-03,12/87 Alpha St,Taringa,4068,Flat,329,1,2,0
+YY-LOC-03,13/5 Moore St,Taringa,4068,Other,261,0,2,1
+YY-LOC-03,13/8 Manchester Tce,Taringa,4068,Flat,462,2,1,2
+YY-LOC-03,13/87 Frederick St,Taringa,4068,Flat,453,3,1,2
+YY-LOC-03,13/94 Walker St,Taringa,4068,Other,266,1,1,0
+YY-LOC-03,14 Duke St,Taringa,4068,House,645,3,1,2
+YY-LOC-03,14/46 Ellerslie Cr,Taringa,4068,Flat,328,2,2,2
+YY-LOC-03,14/51 Hillsdon Rd,Taringa,4068,Flat,347,2,3,1
+YY-LOC-03,14/54 Pike Av,Taringa,4068,Flat,515,2,1,1
+YY-LOC-03,14/91 Todd St,Taringa,4068,Flat,274,1,3,0
+YY-LOC-03,15/46 Harrys Rd,Taringa,4068,Flat,569,3,1,2
+YY-LOC-03,15/71 Moorak St,Taringa,4068,Flat,316,2,1,0
+YY-LOC-03,15/81 Magor St,Taringa,4068,Flat,626,3,1,0
+YY-LOC-03,15/90 Mccaul St,Taringa,4068,Student accommodation,223,1,1,0
+YY-LOC-03,15/92 Highview Tce,Taringa,4068,Flat,497,2,3,1
+YY-LOC-03,15/96 Broseley Rd,Taringa,4068,Flat,465,3,1,2
+YY-LOC-03,16 Raglan St,Taringa,4068,House,420,3,1,2
+YY-LOC-03,17/44 Stanley St,Taringa,4068,Flat,515,2,2,1
+YY-LOC-03,17/58 Todd St,Taringa,4068,Flat,396,2,2,0
+YY-LOC-03,17/66 Stanley Tce,Taringa,4068,Flat,410,2,1,1
+YY-LOC-03,17/97 Broomfield St,Taringa,4068,Flat,706,3,1,1
+YY-LOC-03,17/97 Camp St,Taringa,4068,Flat,337,2,2,2
+YY-LOC-03,18/12 Keltie St,Taringa,4068,Flat,486,2,2,1
+YY-LOC-03,18/24 Union St,Taringa,4068,Flat,428,0,3,0
+YY-LOC-03,19/14 Orchard Tce,Taringa,4068,Flat,363,2,1,0
+YY-LOC-03,19/32 Campbell St,Taringa,4068,Flat,439,2,1,1
+YY-LOC-03,20/79 Whitmore St,Taringa,4068,Flat,465,2,3,0
+YY-LOC-03,21/52 Taringa Pde,Taringa,4068,Flat,249,1,2,0
+YY-LOC-03,21/52 Victoria St,Taringa,4068,Flat,378,0,1,2
+YY-LOC-03,21/56 York St,Taringa,4068,Student accommodation,287,1,1,2
+YY-LOC-03,21/7 Darvall St,Taringa,4068,Townhouse,490,2,2,0
+YY-LOC-03,22/42 Francis Tce,Taringa,4068,Flat,307,3,1,0
+YY-LOC-03,22/74 Woolley St,Taringa,4068,Townhouse,549,3,1,1
+YY-LOC-03,23 Iona Tce,Taringa,4068,House,554,3,1,1
+YY-LOC-03,23/16 Sandford St,Taringa,4068,Other,221,1,2,2
+YY-LOC-03,23/53 Prospect Tce,Taringa,4068,Student accommodation,291,1,2,1
+YY-LOC-03,23/6 Saunders St,Taringa,4068,Flat,340,2,2,1
+YY-LOC-03,24/38 Norman St,Taringa,4068,Other,294,1,1,1
+YY-LOC-03,24/39 Seven Oaks St,Taringa,4068,Flat,356,2,1,1
+YY-LOC-03,24/50 Mossman St,Taringa,4068,Flat,347,2,1,1
+YY-LOC-03,24/73 Kobada St,Taringa,4068,Townhouse,553,3,1,0
+YY-LOC-03,24/8 Murray St,Taringa,4068,Student accommodation,263,5,2,2
+YY-LOC-03,24/90 Woodstock Av,Taringa,4068,Flat,347,2,3,2
+YY-LOC-03,24/97 Birdvale St,Taringa,4068,Flat,325,3,2,1
+YY-LOC-03,3/10 Carawa St,Taringa,4068,Flat,445,2,1,2
+YY-LOC-03,3/21 Hunter St,Taringa,4068,Flat,390,2,3,0
+YY-LOC-03,3/23 Equinox St,Taringa,4068,Townhouse,437,3,2,0
+YY-LOC-03,3/23 Rokeby Tce,Taringa,4068,Townhouse,621,3,2,1
+YY-LOC-03,3/38 Tyne St,Taringa,4068,Flat,480,2,1,2
+YY-LOC-03,3/58 Dopson St,Taringa,4068,Flat,513,1,1,1
+YY-LOC-03,3/6 Alexandra Av,Taringa,4068,Flat,184,1,1,2
+YY-LOC-03,3/87 Dopson St,Taringa,4068,Flat,745,3,1,0
+YY-LOC-03,35 Pike Av,Taringa,4068,House,491,2,1,1
+YY-LOC-03,38 Brasted St,Taringa,4068,House,493,3,1,0
+YY-LOC-03,4 George St,Taringa,4068,House,625,3,1,0
+YY-LOC-03,4/85 Waverley Rd,Taringa,4068,Flat,412,2,1,2
+YY-LOC-03,4/94 Crag Rd,Taringa,4068,Flat,250,2,3,2
+YY-LOC-03,4/97 Campbell St,Taringa,4068,Flat,265,2,3,0
+YY-LOC-03,49 Briggs St,Taringa,4068,House,537,3,2,2
+YY-LOC-03,5/17 Bonvale La,Taringa,4068,Flat,342,2,2,2
+YY-LOC-03,5/42 Heroes Av,Taringa,4068,Flat,338,2,3,1
+YY-LOC-03,5/56 Bellevue Tce,Taringa,4068,Flat,330,1,2,2
+YY-LOC-03,5/76 Montrose Rd,Taringa,4068,Flat,315,5,1,1
+YY-LOC-03,5/88 Adsett St,Taringa,4068,Flat,520,3,1,2
+YY-LOC-03,52 Kings Rd,Taringa,4068,House,650,5,1,1
+YY-LOC-03,56 Sundridge St,Taringa,4068,House,436,3,2,2
+YY-LOC-03,57 Indooroopilly Rd,Taringa,4068,House,514,3,2,2
+YY-LOC-03,6/37 Oxford Tce,Taringa,4068,Flat,323,1,2,0
+YY-LOC-03,6/47 Howitt St,Taringa,4068,Flat,414,1,1,0
+YY-LOC-03,6/62 Marmion Pde,Taringa,4068,Flat,373,1,1,1
+YY-LOC-03,6/64 Gower St,Taringa,4068,Flat,372,1,1,1
+YY-LOC-03,6/90 Armadale St,Taringa,4068,Flat,252,0,1,0
+YY-LOC-03,6/99 Gregory St,Taringa,4068,Flat,389,1,2,0
+YY-LOC-03,61 Beatrice St,Taringa,4068,House,480,2,1,2
+YY-LOC-03,66 Westerham St,Taringa,4068,House,425,3,1,2
+YY-LOC-03,68 Cunningham St,Taringa,4068,House,553,3,2,2
+YY-LOC-03,7/100 Montrose Rd,Taringa,4068,Flat,598,4,1,1
+YY-LOC-03,7/3 Jessica St,Taringa,4068,Student accommodation,170,1,3,2
+YY-LOC-03,7/42 Sir Fred Schonell Dr,Taringa,4068,Flat,439,2,1,1
+YY-LOC-03,7/48 Gailey Rd,Taringa,4068,Townhouse,526,3,1,0
+YY-LOC-03,7/58 Bide St,Taringa,4068,Flat,592,0,2,0
+YY-LOC-03,8/41 Miskin St,Taringa,4068,Flat,364,0,1,0
+YY-LOC-03,8/83 Goldsbrough Rd,Taringa,4068,Flat,468,1,1,0
+YY-LOC-03,8/96 Ada St,Taringa,4068,Flat,302,1,2,0
+YY-LOC-03,86 Queens Rd,Taringa,4068,House,508,3,1,2
+YY-LOC-03,90 Queens Rd,Taringa,4068,House,693,3,1,0
+YY-LOC-03,94 Morrow St,Taringa,4068,House,573,0,3,1
+YY-LOC-03,95 Track/trail,Taringa,4068,House,311,2,1,0
+YY-LOC-01,17/43 Glenmore St,The Gap,4061,Flat,199,2,3,0
+YY-LOC-01,17/76 Granite Park Dr,The Gap,4061,Townhouse,506,3,2,0
+YY-LOC-01,2/97 Benjamina Pl,The Gap,4061,Townhouse,343,3,1,1
+YY-LOC-01,20/3 Delmara Cl,The Gap,4061,Flat,672,3,1,0
+YY-LOC-01,21 Bunratty St,The Gap,4061,House,419,4,1,1
+YY-LOC-01,22 Broadland St,The Gap,4061,House,660,4,1,1
+YY-LOC-01,23/51 Highwood Road Trl,The Gap,4061,Townhouse,483,2,1,2
+YY-LOC-01,23/92 Cedar Pl,The Gap,4061,Townhouse,417,2,3,2
+YY-LOC-01,24/90 Jimna St,The Gap,4061,Townhouse,452,3,1,1
+YY-LOC-01,27 Grenoble St,The Gap,4061,House,1015,3,2,0
+YY-LOC-01,28 Harward St,The Gap,4061,House,635,4,2,0
+YY-LOC-01,29 Allandale Pl,The Gap,4061,House,379,3,1,0
+YY-LOC-01,3 Goldie St,The Gap,4061,House,387,3,1,1
+YY-LOC-01,33 Belclare St,The Gap,4061,House,385,3,2,0
+YY-LOC-01,34 D'aguilar Rd,The Gap,4061,House,433,3,1,2
+YY-LOC-01,36 Gawalla St,The Gap,4061,House,473,4,1,1
+YY-LOC-01,38 Bellata St,The Gap,4061,House,636,3,1,0
+YY-LOC-01,43 Dajarra St,The Gap,4061,House,382,2,2,1
+YY-LOC-01,47 Bruree St,The Gap,4061,House,1171,5,1,2
+YY-LOC-01,48 Extasis St,The Gap,4061,House,549,3,2,2
+YY-LOC-01,53 Elvendon St,The Gap,4061,House,780,3,1,1
+YY-LOC-01,58 Hollis St,The Gap,4061,House,628,5,2,1
+YY-LOC-01,6/6 Highbury Pl,The Gap,4061,Flat,460,3,1,0
+YY-LOC-01,60 Inwood Pl,The Gap,4061,House,837,5,2,2
+YY-LOC-01,64 Chestnut Pl,The Gap,4061,House,541,4,1,1
+YY-LOC-01,67 Coot Tha Cl,The Gap,4061,House,526,4,2,1
+YY-LOC-01,68 Birkridge Pl,The Gap,4061,House,450,4,1,1
+YY-LOC-01,68 Cheppen St,The Gap,4061,House,372,3,1,1
+YY-LOC-01,71 Illowra St,The Gap,4061,House,397,3,1,1
+YY-LOC-01,72 Fairearth St,The Gap,4061,House,493,3,1,0
+YY-LOC-01,75 Edina St,The Gap,4061,House,433,3,1,2
+YY-LOC-01,81 Devonhill St,The Gap,4061,House,728,4,1,2
+YY-LOC-01,89 Bruckner St,The Gap,4061,House,688,4,2,2
+YY-LOC-01,9 Brompton Rd,The Gap,4061,House,383,3,1,0
+YY-LOC-01,92 Bonros Pl,The Gap,4061,House,406,3,1,1
+YY-LOC-01,92 Granton Pl,The Gap,4061,House,397,3,1,2
+YY-LOC-01,94 Indra St,The Gap,4061,House,444,3,1,2
+YY-LOC-01,97 Dillon Rd,The Gap,4061,House,368,3,1,0
+YY-LOC-01,10/91 Cambridge Cl,The Gap,4825,Flat,299,1,3,1
+YY-LOC-01,2/88 Glenquarie Pl,The Gap,4825,Flat,429,3,1,0
+YY-LOC-01,20/98 Bernarra St,The Gap,4825,Flat,252,2,1,2
+YY-LOC-01,23/73 Jirrima St,The Gap,4825,Flat,794,3,2,1
+YY-LOC-03,1/12 Ebor St,Toowong,4066,Other,161,1,1,1
+YY-LOC-03,1/34 Morley St,Toowong,4066,Flat,462,2,2,0
+YY-LOC-03,1/5 Scenic Dr,Toowong,4066,Flat,355,2,2,0
+YY-LOC-03,1/67 Bowling La,Toowong,4066,Townhouse,466,2,1,0
+YY-LOC-03,1/7 Thorpe St,Toowong,4066,Flat,365,2,2,0
+YY-LOC-03,1/99 Brisbane St,Toowong,4066,Flat,449,2,1,2
+YY-LOC-03,10 Kent St,Toowong,4066,House,176,1,2,1
+YY-LOC-03,10/35 Gilrey St,Toowong,4066,Townhouse,494,3,1,1
+YY-LOC-03,10/44 Cadell St,Toowong,4066,Flat,434,1,2,2
+YY-LOC-03,10/95 Standring St,Toowong,4066,Flat,510,3,2,2
+YY-LOC-03,10/99 Pictavia St,Toowong,4066,Student accommodation,244,0,1,1
+YY-LOC-03,11 Darley St,Toowong,4066,House,636,3,1,1
+YY-LOC-03,11/22 Eldridge St,Toowong,4066,Flat,474,2,2,1
+YY-LOC-03,11/83 Delungra St,Toowong,4066,Flat,494,1,3,1
+YY-LOC-03,11/90 Paisley St,Toowong,4066,Flat,434,2,2,1
+YY-LOC-03,11/95 Victoria Cr,Toowong,4066,Flat,552,2,2,2
+YY-LOC-03,12/33 Land St,Toowong,4066,Flat,398,1,1,2
+YY-LOC-03,12/38 Quinn St,Toowong,4066,Flat,411,2,1,0
+YY-LOC-03,12/41 Kate St,Toowong,4066,Flat,365,2,2,0
+YY-LOC-03,12/74 Josling St,Toowong,4066,Townhouse,398,2,2,2
+YY-LOC-03,12/88 Horrocks St,Toowong,4066,Student accommodation,147,0,1,2
+YY-LOC-03,12/89 Glen Rd,Toowong,4066,Flat,329,2,2,1
+YY-LOC-03,13/40 Kerr St,Toowong,4066,Flat,574,2,3,2
+YY-LOC-03,13/42 Mount St,Toowong,4066,Flat,325,2,3,1
+YY-LOC-03,13/72 Sherwood Rd,Toowong,4066,Flat,170,3,2,1
+YY-LOC-03,13/98 Burns Rd,Toowong,4066,Flat,557,3,2,0
+YY-LOC-03,14/11 Norwood St,Toowong,4066,Flat,408,2,3,2
+YY-LOC-03,14/12 Earle La,Toowong,4066,Flat,469,3,1,0
+YY-LOC-03,14/17 Birdwood Tce,Toowong,4066,Flat,456,2,1,2
+YY-LOC-03,14/34 Richer St,Toowong,4066,Flat,743,1,3,1
+YY-LOC-03,14/64 Maraket St,Toowong,4066,Flat,466,2,2,0
+YY-LOC-03,14/66 Ballara La,Toowong,4066,Flat,486,3,1,2
+YY-LOC-03,15/25 Elizabeth St,Toowong,4066,Flat,357,2,1,0
+YY-LOC-03,15/81 Mt Coot Tha Rd,Toowong,4066,Flat,149,1,2,0
+YY-LOC-03,15/89 Devon St,Toowong,4066,Flat,472,3,1,2
+YY-LOC-03,16/1 Annerley St,Toowong,4066,Flat,365,2,2,1
+YY-LOC-03,16/10 Gailey Rd,Toowong,4066,Flat,290,1,1,2
+YY-LOC-03,16/33 Market St,Toowong,4066,Townhouse,669,3,1,0
+YY-LOC-03,16/43 High St,Toowong,4066,Flat,301,2,2,0
+YY-LOC-03,16/56 Palmer St,Toowong,4066,Flat,389,1,1,2
+YY-LOC-03,16/59 Ascog Tce,Toowong,4066,Flat,392,2,3,2
+YY-LOC-03,17 Keltie St,Toowong,4066,House,769,0,3,0
+YY-LOC-03,17/11 Eton St,Toowong,4066,Flat,490,2,3,1
+YY-LOC-03,17/40 Kapunda St,Toowong,4066,Flat,320,1,2,1
+YY-LOC-03,17/53 Holmes St,Toowong,4066,Flat,427,2,3,1
+YY-LOC-03,18/17 Coram La,Toowong,4066,Flat,276,1,3,2
+YY-LOC-03,18/24 Patrick La,Toowong,4066,Flat,275,2,3,1
+YY-LOC-03,18/30 Maryvale St,Toowong,4066,Flat,378,2,2,1
+YY-LOC-03,18/39 Moggill Rd,Toowong,4066,Flat,592,2,1,1
+YY-LOC-03,18/40 Orchard St,Toowong,4066,Flat,542,2,2,0
+YY-LOC-03,18/44 Moggill Rd,Toowong,4066,Flat,450,2,2,2
+YY-LOC-03,18/9 Bayliss St,Toowong,4066,Townhouse,572,3,2,2
+YY-LOC-03,19/11 Oxford Rd,Toowong,4066,Flat,501,2,1,1
+YY-LOC-03,19/80 Water St,Toowong,4066,Flat,256,0,1,1
+YY-LOC-03,2/3 Dempster St,Toowong,4066,Flat,444,2,1,0
+YY-LOC-03,2/53 Curlew St,Toowong,4066,Flat,391,2,3,1
+YY-LOC-03,2/64 Gilrey St,Toowong,4066,Flat,531,3,1,1
+YY-LOC-03,2/66 Golding St,Toowong,4066,Flat,452,2,1,1
+YY-LOC-03,2/84 Milton Rd,Toowong,4066,Flat,341,2,2,0
+YY-LOC-03,2/99 Explorer St,Toowong,4066,Flat,472,2,2,0
+YY-LOC-03,20/58 Pioneer St,Toowong,4066,Flat,557,2,2,1
+YY-LOC-03,21/17 Ventnor St,Toowong,4066,Flat,298,2,2,1
+YY-LOC-03,21/68 Landsborough Tce,Toowong,4066,Flat,452,2,1,1
+YY-LOC-03,21/98 Augustus St,Toowong,4066,Flat,397,2,3,0
+YY-LOC-03,22/10 Ivy St,Toowong,4066,Flat,262,3,2,2
+YY-LOC-03,22/37 Victoria Cr,Toowong,4066,Flat,458,0,3,1
+YY-LOC-03,22/56 Clayton La,Toowong,4066,Flat,546,2,1,2
+YY-LOC-03,22/9 Grove St,Toowong,4066,Townhouse,411,2,3,1
+YY-LOC-03,22/92 Little Maryvale St,Toowong,4066,Flat,475,2,3,1
+YY-LOC-03,22/94 Booth St,Toowong,4066,Flat,292,1,1,2
+YY-LOC-03,23/19 Warrawee St,Toowong,4066,Flat,205,2,2,0
+YY-LOC-03,23/28 Sussex St,Toowong,4066,Flat,504,0,2,0
+YY-LOC-03,23/54 Musgrave St,Toowong,4066,Student accommodation,153,1,3,0
+YY-LOC-03,23/82 Fewings St,Toowong,4066,Flat,377,2,1,1
+YY-LOC-03,24/13 Dovercourt Rd,Toowong,4066,Flat,417,2,2,0
+YY-LOC-03,24/33 Emerson St,Toowong,4066,Townhouse,456,3,1,1
+YY-LOC-03,24/45 Holland St,Toowong,4066,Flat,349,1,2,0
+YY-LOC-03,24/72 Eskmount Dr,Toowong,4066,Flat,310,2,3,1
+YY-LOC-03,24/74 Okeden St,Toowong,4066,Townhouse,600,3,1,2
+YY-LOC-03,24/75 Rouen Rd,Toowong,4066,Flat,262,2,1,2
+YY-LOC-03,24/81 Grove Cr,Toowong,4066,Flat,486,2,1,0
+YY-LOC-03,28 Bywong St,Toowong,4066,House,574,3,1,2
+YY-LOC-03,3/11 Frederick St,Toowong,4066,Flat,177,2,2,0
+YY-LOC-03,3/14 Mayne St,Toowong,4066,Flat,318,2,2,2
+YY-LOC-03,3/28 Couldrey St,Toowong,4066,Flat,442,2,3,0
+YY-LOC-03,3/38 Bent St,Toowong,4066,Flat,377,2,2,0
+YY-LOC-03,3/41 Soudan St,Toowong,4066,Flat,436,2,3,2
+YY-LOC-03,3/43 Camp St,Toowong,4066,Other,155,1,2,1
+YY-LOC-03,3/86 Macdonnell St,Toowong,4066,Flat,364,2,2,2
+YY-LOC-03,34 Glenny St,Toowong,4066,House,646,3,1,1
+YY-LOC-03,35 Bates La,Toowong,4066,House,641,4,1,0
+YY-LOC-03,38 Campbell St,Toowong,4066,House,697,4,2,1
+YY-LOC-03,38 St Osyth St,Toowong,4066,House,578,3,2,2
+YY-LOC-03,38 Terrace St,Toowong,4066,House,1008,2,1,1
+YY-LOC-03,4/35 Cross St,Toowong,4066,Flat,310,2,3,2
+YY-LOC-03,4/38 Ada St,Toowong,4066,Flat,341,2,1,0
+YY-LOC-03,4/68 Aston St,Toowong,4066,Flat,340,1,2,0
+YY-LOC-03,4/7 Dacre St,Toowong,4066,Flat,409,1,1,2
+YY-LOC-03,4/70 Lissner St,Toowong,4066,Flat,270,1,1,2
+YY-LOC-03,46 Herbert St,Toowong,4066,House,344,3,1,0
+YY-LOC-03,46 Siemon St,Toowong,4066,House,825,7,1,0
+YY-LOC-03,5/100 Brixton St,Toowong,4066,Flat,347,2,1,1
+YY-LOC-03,5/24 Sylvan Rd,Toowong,4066,Flat,309,1,1,1
+YY-LOC-03,5/45 Gregory St,Toowong,4066,Other,127,1,1,1
+YY-LOC-03,5/72 Kensington Tce,Toowong,4066,Townhouse,763,3,2,0
+YY-LOC-03,5/75 Lodge St,Toowong,4066,Flat,397,2,2,2
+YY-LOC-03,5/81 Harwood St,Toowong,4066,Flat,424,2,2,2
+YY-LOC-03,5/81 Sleath St,Toowong,4066,Flat,520,2,2,1
+YY-LOC-03,6/11 Purkiss St,Toowong,4066,Flat,448,2,2,1
+YY-LOC-03,6/42 Duke St,Toowong,4066,Flat,291,2,2,0
+YY-LOC-03,6/59 Walter St,Toowong,4066,Flat,344,2,2,2
+YY-LOC-03,60 Depper St,Toowong,4066,House,473,2,3,0
+YY-LOC-03,60 Jephson St,Toowong,4066,House,357,2,2,0
+YY-LOC-03,66 Darley St,Toowong,4066,House,430,3,1,2
+YY-LOC-03,68 Exmouth St,Toowong,4066,House,730,4,2,2
+YY-LOC-03,7/29 Rose Tce,Toowong,4066,Townhouse,368,2,2,2
+YY-LOC-03,7/48 Bennett St,Toowong,4066,Flat,406,2,2,2
+YY-LOC-03,7/75 Benson St,Toowong,4066,Townhouse,604,4,1,2
+YY-LOC-03,7/92 Gower St,Toowong,4066,Flat,599,3,1,0
+YY-LOC-03,7/93 Essex St,Toowong,4066,Flat,470,1,3,0
+YY-LOC-03,74 Stuartholme Rd,Toowong,4066,House,446,4,2,0
+YY-LOC-03,8/39 Croydon St,Toowong,4066,Flat,290,2,2,2
+YY-LOC-03,8/44 Archer St,Toowong,4066,Flat,355,2,2,1
+YY-LOC-03,8/82 Sir Samuel Griffith Dr,Toowong,4066,Flat,653,3,1,2
+YY-LOC-03,82 Vera St,Toowong,4066,House,806,0,3,1
+YY-LOC-03,85 Dean St,Toowong,4066,House,503,3,1,0
+YY-LOC-03,87 Miskin St,Toowong,4066,House,659,4,1,0
+YY-LOC-03,9/17 Ennever St,Toowong,4066,Flat,583,3,1,2
+YY-LOC-03,9/2 Broseley Rd,Toowong,4066,Flat,361,2,2,2
+YY-LOC-03,9/6 Mcgrath St,Toowong,4066,Townhouse,393,1,1,2
+YY-LOC-03,9/86 Valentine St,Toowong,4066,Flat,493,2,3,0
+YY-LOC-03,9/93 Coronation Dr,Toowong,4066,Flat,431,1,3,0
+YY-LOC-05,1 Lindsay Wy,Upper Brookfield,4069,House,504,3,1,1
+YY-LOC-05,27 Roberts Ct,Upper Brookfield,4069,House,581,6,1,2
+YY-LOC-05,95 Whiteley Cl,Upper Brookfield,4069,House,376,3,2,2
+YY-LOC-01,13 Nyngarie Pl,Upper Kedron,4055,House,509,4,2,0
+YY-LOC-01,20 West Upper Kedron Rd,Upper Kedron,4055,House,661,4,2,0
+YY-LOC-01,23/86 Honeybee Pl,Upper Kedron,4055,Flat,416,2,1,2
+YY-LOC-01,28 Highbury Pl,Upper Kedron,4055,House,565,4,1,0
+YY-LOC-01,29 Ord Rd,Upper Kedron,4055,House,447,0,3,1
+YY-LOC-01,50 Dundee Pl,Upper Kedron,4055,House,609,4,2,1
+YY-LOC-01,8 Skye Pl,Upper Kedron,4055,House,610,4,2,1
+YY-LOC-01,87 Ascent St,Upper Kedron,4055,House,674,4,1,2
+YY-LOC-05,39 Urmia Cl,Westlake,4074,House,496,5,1,1
+YY-LOC-05,49 Tebera St,Westlake,4074,House,473,4,2,1
+YY-LOC-05,59 Tennent St,Westlake,4074,House,629,4,2,2
+YY-LOC-05,64 Ballard Pl,Westlake,4074,House,646,5,1,1
+YY-LOC-05,74 Maribor St,Westlake,4074,House,668,4,1,2
+YY-LOC-05,75 Timaru Cl,Westlake,4074,House,469,3,1,2
+YY-LOC-05,85 Tabor St,Westlake,4074,House,598,4,1,1
+YY-LOC-05,9 Bellambi Pl,Westlake,4074,House,809,5,1,1
